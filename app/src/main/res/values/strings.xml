@@ -1,0 +1,188 @@
+<resources>
+    <string name="app_name">Tugas Besar Kelompok</string>
+    <string name="top_daftar_tanaman">Top Daftar Tanaman</string>
+    <string name="top_daftar_obat">Top Daftar Obat</string>
+    <string name="top_bahan_alami">Top Bahan Alami</string>
+    <string name="khasiat_tanaman">Khasiat</string>
+    <string name="nama_latin">Latin</string>
+
+
+
+    <!--LOREM IPSUM-->
+
+    <string name="lorem">Lorem ipsum dolor sit amet, vel fabulas splendide ne. No cum fuisset consequat, at eum quem habemus fierent. Pro fabellas tincidunt abhorreant eu, eum ei ipsum nonumy scaevola. Volumus signiferumque usu ea, eu oratio torquatos comprehensam duo, eam no tritani legendos repudiandae.</string>
+    <!--END LOREM IPSUM-->
+
+    <!-- START OF DATA TANAMAN-->
+    <string-array name="nama_tanaman">
+        <item>Jahe</item>
+        <item>Kunyit</item>
+        <item>Kumis Kucing</item>
+        <item>Temulawak</item>
+        <item>Mengkudu</item>
+        <item>Bawang Putih</item>
+
+    </string-array>
+
+
+    <string-array name="foto_tanaman">
+        <!--Jahe-->
+        <item>https://i.imgur.com/OXeLalG.jpg</item>
+        <!--Kunyit-->
+        <item>https://i.imgur.com/RAYNope.jpg</item>
+        <!--Kumis kucing-->
+        <item>https://i.imgur.com/EK3sz2w.jpg</item>
+        <!--temulawak-->
+        <item>https://i.imgur.com/ZpjwA7E.jpg</item>
+        <!--mengkudu-->
+        <item>https://i.imgur.com/q6cWliC.jpg</item>
+        <!--bawang putih-->
+        <item>https://i.imgur.com/aCCtqo0.jpg</item>
+    </string-array>
+
+    <string-array name="latin_tanaman">
+        <item>Zingiber officinale</item>
+        <item>Zingiber officinale</item>
+        <item>Zingiber officinale</item>
+        <item>Zingiber officinale</item>
+        <item>Zingiber officinale</item>
+        <item>Zingiber officinale</item>
+
+    </string-array>
+
+    <string-array name="desc_tanaman">
+        <item>Jahe</item>
+        <item>Kunyit</item>
+        <item>Kumis Kucing</item>
+        <item>Temulawak</item>
+        <item>Mengkudu</item>
+        <item>Bawang Putih</item>
+
+    </string-array>
+
+    <string-array name="khasiat">
+        <item>1. obat batuk
+            dasdaseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedasdsadasdasdasdasdsadasdsdasdasd
+            dsadasdasdasdasdasdasdasdasdasd
+            \n
+            2. obat sariawan
+            asdddddddddddddddddddddddddddddddsadsdsds
+            sssdsdsddddddddddddddddddddddddddddddddd
+            \n
+            3. obat tidur
+            dasdassssssssssssssssssssssss
+            sdaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+            \n
+            4. obat penenang
+            asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd
+            dsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+            \n
+            5. obat jancuk
+            asddddddddddddddddddddddddddddddasdsaasdas
+            asdddddddddddddddddddddddddddddd
+        </item>
+        <item>Kunyit</item>
+        <item>Kumis Kucing</item>
+        <item>Temulawak</item>
+        <item>Mengkudu</item>
+        <item>Bawang Putih</item>
+
+    </string-array>
+
+    <!--END OF DATA TANAMAN-->
+
+
+    <!--START OF DATA PENYAKIT-->
+
+    <string-array name="nama_penyakit">
+        <item>Obat Batuk</item>
+        <item>Obat Demam</item>
+        <item>Obat Flu</item>
+        <item>Obat Sakit Tenggorokan</item>
+        <item>Obat Sariawan</item>
+        <item>Obat Bibir Kering</item>
+
+
+    </string-array>
+
+    <string-array name="foto_penyakit">
+        <!--batuk-->
+        <item>https://i.imgur.com/XoGDjIY.jpg</item>
+        <!--demam-->
+        <item>https://i.imgur.com/wpoutlZ.jpg</item>
+        <!--flu-->
+        <item>https://i.imgur.com/DG3tAHh.jpg</item>
+        <!--sakit tenggorokan-->
+        <item>https://i.imgur.com/MJxLjlS.jpg</item>
+        <!--Sariawan-->
+        <item>https://i.imgur.com/PWBSDuJ.jpg</item>
+        <!--bibir kering-->
+        <item>https://i.imgur.com/7tG8Osq.jpg</item>
+
+    </string-array>
+
+    <string-array name="desc_penyakit">
+        <item>Obat Batuk</item>
+        <item>Obat Demam</item>
+        <item>Obat Flu</item>
+        <item>Obat Sakit Tenggorokan</item>
+        <item>Obat Sariawan</item>
+        <item>Obat Bibir Kering</item>
+
+    </string-array>
+
+    <!--END OF DATA PENYAKIT-->
+
+
+    <!--START OF BAHAN ALAMI-->
+
+    <string-array name="nama_bahan_alami">
+        <item>Garam</item>
+        <item>Madu</item>
+        <item>Susu</item>
+        <item>Minyak Almond</item>
+        <item>Lidah Buaya</item>
+    </string-array>
+
+    <string-array name="foto_bahan_alami">
+        <!--garam-->
+        <item>https://i.imgur.com/WxrltbB.jpg</item>
+        <!--madu-->
+        <item>https://i.imgur.com/PQGaO3A.jpg</item>
+        <!--susu-->
+        <item>https://i.imgur.com/BDo0faI.jpg</item>
+        <!--minyak almond-->
+        <item>https://i.imgur.com/5D5OAGI.jpg</item>
+        <!--lidah buaya-->
+        <item>https://i.imgur.com/aZzARqB.jpg</item>
+    </string-array>
+
+    <string-array name="latin_bahan_alami">
+        <item>Garam</item>
+        <item>Madu</item>
+        <item>Susu</item>
+        <item>Minyak Almond</item>
+        <item>Lidah Buaya</item>
+    </string-array>
+
+    <string-array name="desc_bahan_alami">
+        <item>Garam</item>
+        <item>Madu</item>
+        <item>Susu</item>
+        <item>Minyak Almond</item>
+        <item>Lidah Buaya</item>
+    </string-array>
+
+    <string-array name="khasiat_bahan_alami">
+        <item>Garam</item>
+        <item>Madu</item>
+        <item>Susu</item>
+        <item>Minyak Almond</item>
+        <item>Lidah Buaya</item>
+    </string-array>
+
+    <!--END OF BAHAN ALAMI-->
+
+
+
+</resources>
