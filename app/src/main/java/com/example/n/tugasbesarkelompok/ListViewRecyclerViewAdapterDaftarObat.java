@@ -1,6 +1,7 @@
 package com.example.n.tugasbesarkelompok;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
@@ -19,22 +20,24 @@ import java.util.ArrayList;
 
 import static android.support.constraint.Constraints.TAG;
 
-public class ListViewRecyclerViewAdapterNonLatin extends RecyclerView.Adapter<ListViewRecyclerViewAdapterNonLatin.ViewHolder>{
+public class ListViewRecyclerViewAdapterDaftarObat extends RecyclerView.Adapter<ListViewRecyclerViewAdapterDaftarObat.ViewHolder>{
 
     private Context mContext;
     private ArrayList<String> mImages;
     private ArrayList<String> mName;
+    private ArrayList<String> mDesc;
 
-    public ListViewRecyclerViewAdapterNonLatin(Context mContext, ArrayList<String> mImages, ArrayList<String> mName) {
+    public ListViewRecyclerViewAdapterDaftarObat(Context mContext, ArrayList<String> mImages, ArrayList<String> mName, ArrayList<String> mDesc) {
         this.mContext = mContext;
         this.mImages = mImages;
         this.mName = mName;
+        this.mDesc = mDesc;
     }
 
     @NonNull
     @Override
-    public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int position) {
-        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.list_view_non_latin,parent,false);
+    public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
+        View view = LayoutInflater.from(parent.getContext()).inflate(R.layout.list_view_daftar_obat,parent,false);
         return new ViewHolder(view);
     }
 
@@ -55,6 +58,13 @@ public class ListViewRecyclerViewAdapterNonLatin extends RecyclerView.Adapter<Li
             public void onClick(View v) {
                 Log.d(TAG, "onClick: " + mName.get(position));
                 Toast.makeText(mContext, "Clicked : " + mName.get(position), Toast.LENGTH_SHORT).show();
+
+                Intent intent = new Intent(mContext, DetailPenyakitActivity.class);
+                intent.putExtra("Image_name", mName.get(position));
+                intent.putExtra("Image_pic", mImages.get(position));
+                intent.putExtra("Image_desc", mDesc.get(position));
+                mContext.startActivities(new Intent[]{intent});
+
             }
         });
     }
@@ -73,9 +83,9 @@ public class ListViewRecyclerViewAdapterNonLatin extends RecyclerView.Adapter<Li
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
 
-            image = itemView.findViewById(R.id.pic_category_non_latin);
-            name = itemView.findViewById(R.id.judul_category_non_latin);
-            cardViewParent = itemView.findViewById(R.id.card_view_list_non_latin_parent);
+            image = itemView.findViewById(R.id.pic_list_daftar_obat);
+            name = itemView.findViewById(R.id.judul_list_daftar_obat);
+            cardViewParent = itemView.findViewById(R.id.card_view_list_daftar_obat_parent);
         }
     }
 }

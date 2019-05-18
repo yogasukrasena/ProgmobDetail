@@ -19,9 +19,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity" />
-        <activity android:name=".DetailObatActivity"></activity>
-        <activity android:name=".DetailPenyakitActivity"></activity>
-        <activity android:name=".DetailBahanActivity"></activity>
+        <activity android:name=".DetailObatActivity" />
+        <activity android:name=".DetailPenyakitActivity" />
+        <activity android:name=".DetailBahanActivity" />
+        <activity android:name=".ListViewCategory"></activity>
     </application>
 
 </manifest>

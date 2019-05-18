@@ -1,6 +1,7 @@
 package com.example.n.tugasbesarkelompok;
 
 import android.annotation.SuppressLint;
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.CardView;
@@ -51,7 +52,9 @@ public class MainActivity extends AppCompatActivity {
         menu_daftar_tanaman.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this, "Daftar Tanaman Clicked", Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(MainActivity.this, ListViewCategory.class);
+                intent.putExtra("item","daftar_tanaman");
+                startActivity(intent);
             }
         });
 
@@ -59,7 +62,9 @@ public class MainActivity extends AppCompatActivity {
         menu_daftar_obat.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this, "Daftar Obat Clicked", Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(MainActivity.this, ListViewCategory.class);
+                intent.putExtra("item","daftar_obat");
+                startActivity(intent);
             }
         });
 
@@ -67,7 +72,9 @@ public class MainActivity extends AppCompatActivity {
         menu_bahan_alami.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this, "Bahan Alami Clicked", Toast.LENGTH_SHORT).show();
+                Intent intent = new Intent(MainActivity.this, ListViewCategory.class);
+                intent.putExtra("item", "daftar_bahan_alami");
+                startActivity(intent);
             }
         });
 

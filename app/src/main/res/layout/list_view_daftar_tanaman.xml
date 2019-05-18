@@ -9,7 +9,7 @@
         android:layout_height="wrap_content">
 
         <android.support.v7.widget.CardView
-            android:id="@+id/card_view_list_parent"
+            android:id="@+id/card_view_list_daftar_tanaman_parent"
             android:layout_width="match_parent"
             android:layout_height="100dp"
             android:layout_marginLeft="5dp"
@@ -21,7 +21,7 @@
                 android:layout_height="match_parent">
 
                 <ImageView
-                    android:id="@+id/pic_category"
+                    android:id="@+id/pic_list_daftar_tanaman"
                     android:layout_width="90dp"
                     android:layout_height="90dp"
                     android:src="@drawable/ic_launcher_background"
@@ -32,24 +32,25 @@
                     android:scaleType="centerCrop"/>
 
                 <TextView
-                    android:id="@+id/judul_category"
+                    android:id="@+id/judul_list_daftar_tanaman"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     app:layout_constraintRight_toRightOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    app:layout_constraintLeft_toRightOf="@id/pic_category"
+                    app:layout_constraintLeft_toRightOf="@id/pic_list_daftar_tanaman"
                     android:layout_marginTop="20dp"
                     android:text="Jahe"/>
 
                 <TextView
-                    android:id="@+id/nama_latin_category"
+                    android:id="@+id/nama_latin_list_daftar_tanaman"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    app:layout_constraintLeft_toRightOf="@id/pic_category"
-                    app:layout_constraintTop_toBottomOf="@id/judul_category"
+                    app:layout_constraintLeft_toRightOf="@id/pic_list_daftar_tanaman"
+                    app:layout_constraintTop_toBottomOf="@id/judul_list_daftar_tanaman"
                     app:layout_constraintRight_toRightOf="parent"
                     android:layout_marginTop="10dp"
-                    android:text="Zingiber Officinel"/>
+                    android:text="Zingiber Officinel"
+                    android:textStyle="italic"/>
 
 
 
