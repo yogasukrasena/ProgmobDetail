@@ -17,6 +17,33 @@
             android:src="@drawable/ic_launcher_background"
             android:scaleType="centerCrop"
             />
+        <TextView
+            android:id="@+id/header_hidup_sehat"
+            android:layout_width="match_parent"
+            android:layout_height="47dp"
+            android:fontFamily="@font/pt_sans_web_regular"
+            android:gravity="center"
+            android:text="Hidup Sehat"
+            android:textColor="#ffff"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            app:layout_constraintBottom_toBottomOf="@id/header_pic"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.176" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/header_hidup_sehat"
+            android:gravity="center"
+            android:text="Bersama Kami"
+            android:textStyle="bold"
+            android:textColor="#ffff"
+            android:textSize="20sp"
+            />
 
         <LinearLayout
             android:id="@+id/menu_header"
@@ -50,7 +77,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="hhhhhhhhhhhh"
+                        android:text="Daftar Tanaman"
                         android:layout_marginTop="10dp"
                         android:textAlignment="center" />
 

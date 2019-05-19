@@ -14,77 +14,517 @@
 
     <!-- START OF DATA TANAMAN-->
     <string-array name="nama_tanaman">
-        <item>Jahe</item>
-        <item>Kunyit</item>
-        <item>Kumis Kucing</item>
-        <item>Temulawak</item>
-        <item>Mengkudu</item>
+        <item>Adas</item>
         <item>Bawang Putih</item>
+        <item>Cocor Bebek</item>
+        <item>Delima Putih</item>
+        <item>Kunyit</item>
+        <item>Lidah Buaya</item>
+        <item>Mengkudu</item>
+        <item>Nona Makan Sirih</item>
+        <item>Pegagan</item>
+        <item>Rosella</item>
+        <item>Sirih</item>
+        <item>Temulawak</item>
+        <item>Urang-Aring</item>
+        <item>Valeriana</item>
+        <item>Wijaya Kusuma</item>
 
     </string-array>
 
 
     <string-array name="foto_tanaman">
-        <!--Jahe-->
-        <item>https://i.imgur.com/OXeLalG.jpg</item>
+        <!--Adas-->
+        <item>https://i.imgur.com/7Lqx4JL.jpg</item>
+        <!--Bawang putih-->
+        <item>https://i.imgur.com/1QlAJ6d.jpg</item>
+        <!--Cocor Bebek-->
+        <item>https://i.imgur.com/imrdEIS.jpg</item>
+        <!--Delima Putih-->
+        <item>https://i.imgur.com/uRrq0lw.jpg</item>
         <!--Kunyit-->
-        <item>https://i.imgur.com/RAYNope.jpg</item>
-        <!--Kumis kucing-->
-        <item>https://i.imgur.com/EK3sz2w.jpg</item>
-        <!--temulawak-->
+        <item>https://i.imgur.com/c30vMKH.jpg</item>
+        <!--Lidah Buaya-->
+        <item>https://i.imgur.com/XJkWYjN.jpg</item>
+        <!--Mengkudu-->
+        <item>https://i.imgur.com/RM1dd4W.jpg</item>
+        <!--Nona Makan Sirih-->
+        <item>https://i.imgur.com/31tTpTq.jpg</item>
+        <!--Pegagan-->
+        <item>https://i.imgur.com/ZLZVy66.jpg</item>
+        <!--Rosela-->
+        <item>https://i.imgur.com/ZwDkimr.jpg</item>
+        <!--Sirih-->
+        <item>https://i.imgur.com/reeOF56.jpg</item>
+        <!--Temulawak-->
         <item>https://i.imgur.com/ZpjwA7E.jpg</item>
-        <!--mengkudu-->
-        <item>https://i.imgur.com/q6cWliC.jpg</item>
-        <!--bawang putih-->
-        <item>https://i.imgur.com/aCCtqo0.jpg</item>
+        <!--Urang-Aring-->
+        <item>https://i.imgur.com/mDCvwFc.jpg</item>
+        <!--Valerian-->
+        <item>https://i.imgur.com/SOdTTKv.jpg</item>
+        <!--Wijayakusuma-->
+        <item>https://i.imgur.com/msrnHwN.jpg</item>
     </string-array>
 
     <string-array name="latin_tanaman">
-        <item>Zingiber officinale</item>
-        <item>Zingiber officinale</item>
-        <item>Zingiber officinale</item>
-        <item>Zingiber officinale</item>
-        <item>Zingiber officinale</item>
-        <item>Zingiber officinale</item>
+        <item>Foeniculum vulgare</item>
+        <item>Allium sativum</item>
+        <item>Kalanchoe pinnata</item>
+        <item>Punica Granatum</item>
+        <item>Curcuma longa</item>
+        <item>Aloe vera</item>
+        <item>Morinda citrifolia</item>
+        <item>Clerodendrum thomsoniae</item>
+        <item>Centella asiatica</item>
+        <item>Hibiscus sabdariffa</item>
+        <item>Piper betle</item>
+        <item>Curcuma xanthorrhiza</item>
+        <item>Eclipta alba</item>
+        <item>Valeriana officinalis</item>
+        <item>Epiphyllum oxypetalum</item>
 
     </string-array>
 
     <string-array name="desc_tanaman">
-        <item>Jahe</item>
-        <item>Kunyit</item>
-        <item>Kumis Kucing</item>
-        <item>Temulawak</item>
-        <item>Mengkudu</item>
-        <item>Bawang Putih</item>
+        <!--Adas-->
+        <item>Adas atau adas pedastelah lama dikenal sebagai tanaman bumbu atau tanaman obat. Minyak adas yang dikandung biji tanaman ini merupakan salah satu komponen minyak telon.
+        \n
+           Tanaman ini dapat hidup di dataran rendah hingga ketinggan 1.800 meter di atas permukaan laut, tetapi akan lebih baik jika tumbuh di dataran tinggi. Adas berasal dari daerah Laut Tengah timur (Italia ke timur hingga Suriah). Karena manfaatnya, adas banyak ditanam di Indonesia, India, Argentina, dan Jepang.
+        </item>
+        <!--Bawang  Putih-->
+        <item>Bawang putih dikenal sebagai salah satu bumbu wajib untuk berbagai macam masakan. Tidak heran jika keberadaan bawang putih di setiap dapur sangat dibutuhkan. Namun, tahukan Anda jika bawang putih juga termasuk ke dalam herbal yang dipercaya mampu untuk mengatasi berbagai macam penyakit?
+        \n
+          Bawang putih merupakan tanaman dari jenis genus Allium yang telah dimanfaatkan oleh manusia sejak 7000 tahun yang lalu. Tanaman ini pertama kali ditemukan di wilayah Asia Tengah dan telah lama diambil manfaatnya sebagai bahan makanan dan sebagai bahan dasar obat khususnya di wilayah Asia, Eropa, dan Afrika.
+        </item>
+        <!--Cocor Bebek-->
+        <item>Cocor bebek merupakan tumbuhan sekulen yang berasal dari Madagaskar. Meskipun berasal dari negeri nun jauh di sana, cocor bebek dapat tumbuh subur di Indonesia. Bahkan, tanaman yang satu ini sering menghiasi teras atau halaman rumah masyarakat di Indonesia.
+            \n
+            Namun, tahukah Anda bahwa cocor bebek bukan sekedar tanaman biasa untuk menghiasi rumah? Ada sejumlah manfaat cocor bebek untuk kesehatan yang mungkin belum banyak diketahui orang
+        </item>
+        <!--Delima Putih-->
+        <item>Delima putih merupakan salah satu jenis delima diantara beberapa jenis delima lain seperti delima ungu dan delima merah. Buah delima sendiri berasal dari kawasan Timur Tengah dan kemudian mulai menyebar ke daerah tropis seperti salah satunya adalah Indonesia. Delima putih tidak hanya terlihat cantik sehingga sering digunakan sebagai tanaman hiasan, namun delima putih juga menyimpan banyak manfaat lain yang berguna untuk kesehatan.
+        \n
+        Dalam buah delima putih sendiri mengandung banyak nutrisi seperti zat besi, kalsium, vitamin B6, vitamin C, riboflavin, karbohirat, serat, protein, energi, lemak, gula, kalium, thiamine, niacin, folat, zat besi, fosfor, seng dan juga magnesium.
+        </item>
+        <!--Kunyit-->
+        <item>Kunyit adalah salah satu jenis rempah-rempah yang mungkin banyak orang sudah tahu keberadaannya, tapi tidak tahu manfaatnya. Padahal, ia sangat kaya manfaat lho. Inilah 7 manfaat dari kunyit yang sudah dibuktikan lewat penelitian dan sudah dipercaya sejak dulu kala
+        </item>
+        <!--Lidah Buaya-->
+        <item>Lidah buaya adalah sejenis tumbuhan yang sudah dikenal sejak ribuan tahun silam dan digunakan sebagai penyubur rambut, penyembuh luka, dan untuk perawatan kulit. Tumbuhan ini dapat ditemukan dengan mudah di kawasan kering di Afrika.
+        </item>
+        <!--Mengkudu-->
+        <item>Mengkudu merupakan buah yang dapat ditemukan di daerah Asia Tenggara, kepulauan Pasifik, India dan Australia. Dahulu, buah mengkudu digunakan sebagai pewarna merah dan kuning untuk pakaian.  Selain itu, buah mengkudu juga sering digunakan sebagai obat, biasanya diaplikasikan pada kulit.
+        </item>
+        <!--Nona Makan Sirih-->
+        <item>Nona makan sirih adalah jenis tanaman hias merambat, termasuk tanaman yang rajin berbunga. Jika rajin merawatnya, dengan cara memangkas batang tua dan membuang bunga yang layu, tanaman ini lebih rajin berbunga.
+        </item>
+        <!--Pegagan-->
+        <item>Daun pegagan adalah herbal yang dikenal memiliki banyak sekali manfaat untuk mengobati berbagai macam masalah kesehatan. Centella asiatica adalah daun hijau berbentuk kipas yang biasanya ditanam dan digunakan untuk tujuan pengobatan.
+        </item>
+        <!--Rosela-->
+        <item>Bunga rosela adalah bunga yang berasal dari benua Afrika dengan nama latin Hibiscus sabdariffa. Di Indonesia, bunga rosela dikenal juga dengan nama bunga rosella atau asam paya. Di negara lain, rosella memiliki nama lain seperti pundi, gongura, dagu baung, kreajab, wonjo, sorrel, luo shen hua, omutete, flor de jamaica, karkade, dan lainnya.
+        </item>
+        <!--Sirih-->
+        <item>Daun Sirih atau Tanaman yang di juluki mempunyai seribu khasiat ini di gunakan untuk obat. Didalam Daun Sirih terkandung Minyak Atsiri yang mengandung minyak terbang (betIephenol), pati, seskuiterpen, gula, diastase, zat semak dan chavicol yang mempunyai kemampuan mematikan kuman, antioksidasi dan anti jamur dan fungisida.
+        </item>
+        <!--Temulawak-->
+        <item>Temulawak (Curcuma xanthorrhiza) dikenal sebagai tanaman bahan dasar obat tradisional khas Indonesia. Tanaman ini tergolong ke dalam jenis temu-temuan yakni tanaman dengan bentuk rimpang dan akar yang pada bagian batangnya berada di dalam tanah. Temulawak tergolong ke dalam keluarga tanaman Zingiberaciae, seperti halnya kunyit, jahe lengkuas, dan lainnya.
+        </item>
+        <!--Urang-Aring-->
+        <item>Tanaman urang aring merupakan tanaman yang memiki manfaat yang sangat banyak. Bagian dari tanaman ini memiliki khasiatnya masing-masing. Manfaat dari urang aring yang sangat kita kenal yakni manfaatnya untuk rambut kita, namun tidak hanya sampai sebatas itu, ternyata tanaman urang aring juga bisa mengatasi keputihan bagi wanita, gusi bengkak, mimisan serta diare, serta muntah darah, batuk darah sampai bisa mengobati orang yang terkena gigitan ular.
+        </item>
+        <!--Valerian-->
+        <item>Akar valerian adalah salah satu tanaman herbal yang berasal dari Eropa dan sebagian wilayah Asia. Akar ini sering dijadikan untuk bermacam obat kesehatan, misalnya untuk mengatasi rasa cemas dan sebagai obat penenang.
+        </item>
+        <!--Wijaya Kusuma-->
+        <item>Bunga wijaya kusuma adalah bunga yang mekar di malam hari dan biasanya akan layu pada pagi hari. Bunga Wijaya Kusuma termasuk jenis tanaman kaktus. Bunga wijaya kusuma ini berasal dari Venezuela, Amerika Selatan.
+        </item>
+
 
     </string-array>
 
     <string-array name="khasiat">
-        <item>1. obat batuk
-            dasdaseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeedasdsadasdasdasdasdsadasdsdasdasd
-            dsadasdasdasdasdasdasdasdasdasd
+        <!--Adas-->
+        <item>1. Meningkatkan Sistem  Kekebalan Tubuh\n\n
+            Manfaat adas yang utama bisa meningkatkan sistem kekebalan tubuh. Beberapa zat seperti selenium, antioksidan, dan lainnya memiliki efek untuk merangsang produksi sel T yang bisa menyingkirkan berbagai zat asing penyebab penyakit.
             \n
-            2. obat sariawan
-            asdddddddddddddddddddddddddddddddsadsdsds
-            sssdsdsddddddddddddddddddddddddddddddddd
             \n
-            3. obat tidur
-            dasdassssssssssssssssssssssss
-            sdaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+            2. Melawan Peradangan dan Infeksi di dalam Tubuh
+            \n\n
+            Adas juga bermanfaat untuk melawan infeksi dan peradangan yang sedang terjadi di dalam tubuh.
             \n
-            4. obat penenang
-            asdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd
-            dsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+            Beberapa zat seperti kolin dan anetol memiliki sifat antiinflamasi. Adas juga mengandung zat yang bisa mencegah reaksi radang dan alergi. Selain itu, adas juga mengandung zat yang bersifat antibakteri. Ini bisa melawan serangan bakteri seperti Salmonella dan E. coli.
             \n
-            5. obat jancuk
-            asddddddddddddddddddddddddddddddasdsaasdas
-            asdddddddddddddddddddddddddddddd
+            \n
+            3. Menjaga Kesehatan Jantung\n
+            \n
+            Adas mengandung banyak zat-zat yang bermanfaat untuk menjaga kesehatan jantung. Beberapa zat tersebut di antaranya adalah kalium, serat, piridoksi, asam folat, dan vitamin C. Manfaat adas bisa mencegah penyakit jantung melalui zat-zat tersebut.
+            \n\n
+            Berbagai zat gizi yang telah disebutkan bisa menurunkan kolesterol LDL dan trigliserida di dalam darah. Selain itu, kandungan vitamin B juga bisa mencegah kerusakan pembuluh darah yang sangat terkait dengan kesehatan jantung.
+            \n
+            \n
+            4. Memperbaiki Metabolisme Tubuh\n\n
+            Adas bermanfaat untuk memperbaiki metabolisme tubuh terutama terkait sistem pencernaan. Pengonsumsian adas bisa meningkatkan sistem pencernaan di dalam tubuh yang berdampak pada berat badan tubuh.
+            \n
+            \n
+            5. Membantu Mengontrol Tekanan Darah\n\n
+            Tanaman adas juga mengandung natrium dan kalium yang memiliki peran penting terhadap tekanan darah. Kandungan natrium bisa menurunkan tekanan darah, sedangkan kandungan kalium bisa membantu kontraksi pembuluh darah.
+            \n
+            \n
+            6. Mencegah Penyakit Kanker\n\n
+            Tanaman adas juga mengandung natrium dan kalium yang memiliki peran penting terhadap tekanan darah. Kandungan natrium bisa menurunkan tekanan darah, sedangkan kandungan kalium bisa membantu kontraksi pembuluh darah.
+
         </item>
-        <item>Kunyit</item>
-        <item>Kumis Kucing</item>
-        <item>Temulawak</item>
-        <item>Mengkudu</item>
-        <item>Bawang Putih</item>
+        <!--Bawang Putih-->
+        <item>
+        1. Mengatasi pilek dan infeksi lainnya\n\n
+        Manfaat makan bawang putih yang pertama adalah dapat mengatasi pilek dan beberapa jenis infeksi lainnya. Hal ini dikarenakan kandungan senyawa allicin yang ada dalam bawang putih. Senyawa satu ini memiliki peran penting dalam sifat antimikroba yang dimiliki oleh bawang putih.
+        \n
+        Sebuah penelitian juga menunjukkan bawa kelompok orang yang mengonsumsi suplemen bawang putih memiliki potensi terkena pilek lebih rendah dibandingkan dengan yang mengonsumsi plasebo. Jika terkana flu, kelompok ini juga pulih lebih cepat berkat konsumsi bawang putih tersebut.
+        \n\n
+        2. Menurunkan kolesterol\n\n
+        Bawang putih dapat membantu menurunkan jumlah kolesterol total dan LDL (kolesterol jahat) dalam darah. Bawang putih dapat menurunkan sekita 10-15% kadar kolesterol total pada mereka yang memiliki tingkat kolesterol tinggi. Meskipun memiliki kemampuan untuk menurunkan kadar LDL, namun bawang putih tidak memberikan efek pada kadar trigliserida maupun HDL (kolesterol baik).
+        \n\n
+        3. Menjaga kesehatan jantung\n\n
+        Siapa sangka jika menjaga kesehatna jantung juga merupakan salah satu manfaat makan bawang putih. Tinjauan ilmiah dari berbagai studi ekperimental dan klinis tentang khasiat bawang putih mentah menemukan bahwa bawang putih memiliki efek kardioprotektif (melindungi kesehatan jantung) yang signifikan pada hewan maupun manusia.
+        \n
+        Seperti yang sudah disebutkan sebelumnya bahwa bawang putih membantu menurunkan kadar kolesterol jahat. Salah satu cara bawang putih melindungi jantung adalah dengan mencegah terbentuknya plak dalam pembuluh darah yang terbentuk akibat penumpukan LDL dalam darah.
+        \n\n
+        4. Menurunkan tekanan darah\n\n
+        Selain kolesterol tinggi, tekanan darah tinggi juga merupakan pemicu lainnya dari berbagai penyakti kardiovaskular. Penelitian pada manusia telah menunjukkan konsumsi ekstrak bawang putih dapat menurunkan tekanan darah secara signifikan.
+`        \n
+        Bahkan, bawang putih yang berumur tua dalam dosis tertentu dipercaya memiliki kemanpuan yang hampir sama dengan obat penurun tekanan darah. Hal ini lah yang membuat masyarakat luas percaya manfaat makan bawang putih rutin untuk menurunkan tekanan darah.
+        \n\n
+        5. Baik untuk penderita diabetes\n\n
+        Manfaat makan bawang putih mentah juga dipercaya baik untuk mengatasi diabetes. Beberapa manfaat bawang putih untuk diabetes adalah seperti mengatur kadar gula darah, melawan infeksi, dan mengurangi beberapa efek komplikasi akibat diabetes.
+        \n
+        Kemampuan bawang putih untuk mengatasi komplikasi diabetes sama baiknya dengan kemampuan bawang putih untuk melawan infeksi, menurunkan kolesterol, dan meningkatkan sirkulasinya.
+        \n\n
+        6. Mencegah alzheimer dan demensia\n\n
+        Penyakit seperti Alzheimer dan demensia dipicu oleh stres oksidatif yang terjadi akibat dari radikal bebas. Bawang putih yang memiliki kandungan antioksidan dapat mengatasi masalah tersebut.
+        \n
+        Selain karena dapat bertindak sebagai antioksidan, manfaat makan bawang putih untuk menurunkan tekanan darah dan kolesterol juga memiliki peran dalam menurunkan risiko terjadinya penyakit seperti Alzheimer dan demensia.
+        \n\n
+        7. Mencegah kanker\n\n
+        Bawang putih juga dapat menjadi salah satu pencegahan untuk kanker. Allium seperti bawang merah dan bawang putih dengan senyawa sulfur bioaktifnya dipercaya memiliki efek pada setiap pembentukan kanker dan banyak proses biologis yang mengubah risiko kanker.
+        \n
+        Menurut National Cancer Institute yang merupakan bagian dari National Institures of Health (NIH) Amerika Serikat, beberapa studi menunjukkan bawha peningkatan asupan bawang putih dapat menurunkan risiko kanker tertentu, termasuk kanker lambung, usus besar, kerongkongan, pankreas, dan payudara.
+        \n
+        Efek perlindungan dari bawang putih timbul dari sifat antibakterinya yang mampu untuk memblokir pembentukan zat penyebab kanker, menghentikan aktivasi zat penyebab kanker, meningkatkan perbaikan DNA, mengurangi proliferasi sel, dan menginduksi kematian sel kanker.
+        \n\n
+        8. Detoksifikasi logam berat\n\n
+        Khasiat bawang putih mentah selanjutnya adalah dapat melindungi tubuh dari kerusakan organ dari keracunan logam berat. Sebuah penelitian pada karyawan baterai mobil yang terpapar timbal berlebihan, menemukan bahwa bawang putih mengurangi kadar timbal dalam darah hingga 19%.
+        \n\n
+        9. Baik untuk kesehatan gigi dan mulut\n\n
+        Efek antibakteri pada bawang putih dapat mengatasi bakteri plak gigi yang merupakan penyebab kerusakan gigi. Selain itu, bawang putih juga dapat mengatasi beberapa infeksi mulut. Penggunaan bawang putih dapat dilakukan bersama antibiotik atau dapat digunakan untuk mengobati infeksi akibat bakteri yang resisten terhadap obat.
+        \n\n
+        10. Meningkat kesehatan tulang\n\n
+        Bawang putih juga dipercaya dapat meningkatkan kesehatan tulang. Sebuah penelitian pada tikus menujukkan bahwa bawnag putih dapat meminimalkan pengeroposan tulang dengan meningkatkan kadar estrogen pada wanita.
+        \n
+        Studi lain pada wanita menopause menemukan bahwa pemberian bawang putih secara signifikan dapat menurunkan tanda defisiensi estrogen, yang umumnya menyebabkan gangguan tulang. Hal ini membuat bawang putih juga dipercaya dapat memberikan efek baik osteoarthritis.
+        \n
+        Manfaat makan bawang putih sebagian besar sudah dibuktikan secara ilmiah, namun penggunaanya tetap harus dilakukan dengan hati-hati. Perlu diketahui bahwa makan bawang putih dapat menyebabkan bau mulut. Sehingga pastikan Anda mengonsumsinya dengan benar agar tidak menyebabkan bau mulut.
+        \n
+        Reaksi alergi juga bisa saja terjadi pada sebagian orang. Jika Anda sedang menjalani pengobatan lain, sebaiknya diskusikan juga dengan dokter tentang konsumsi bawang putih untuk pengobatan ini.
+        \n
+        </item>
+        <!--Cocor Bebek-->
+        <item>1. Mengurangi pembengkakan amandel\n\n
+            Setiap orang berisiko mengalami pembengkakan kelenjar tonsilitis alias amandel. Kondisi seperti ini membuat tenggorokan terasa tidak nyaman ketika meneguk minuman atau menelan makanan. Apalagi pembengkakan amandel ini juga disertai dengan gejala lain, seperti sakit kepala, demam, dan meriang.
+            \n
+            Jika sudah seperti ini sebaiknya kurangi gejala pembengkakan amandel ini dengan cocor bebek. Caranya adalah haluskan beberapa lembar cocor bebek di dalam blender. Setelah itu, peras cocor bebek yang sudah dihaluskan itu untuk diambil airnya. Kemudian, campurkan sari daun cocor bebek dengan segelas air hangat dan minumlah sampai habis.
+            \n\n
+            2. Meredakan Sakit Kepala
+            \n\n
+            Daun cocor bebek sangat aman untuk dikonsumsi langsung tanpa perlu dimasak terlebih dahulu. Mengunyah cocor bebek yang masih segar ternyata bisa meredakan sakit kepala yang tak tertahankan, lho. Pasalnya, tumbuhan ini mengandung asam malat, asam formiat, magnesium, glucoside, dan kalsium yang dapat meredakan sakit kepala.
+            \n
+            Apabila Anda masih belum terbiasa mengunyah daun cocor bebek secara langsung, rebus saja daun cocor bebek tersebut di air mendidih. Anda bisa meminum air rebusan cocor bebek tersebut dan memakan daun yang sudah direbus tadi sebagai lalapan.
+            \n\n
+            3. Melancarkan Pencernaan
+            \n\n
+            Punya masalah pada pencernaan, seperti sembelit? Manfaat cocor bebek ternyata tidak hanya sekedar untuk meredakan sakit kepala dan mengurangi pembengkakan amandel saja, lho. Sama seperti manfaat nanas muda, tumbuhan ini juga dapat melancarkan sistem pencernaan sehingga perut pun terasa lebih lega. Kandungan serat dan air yang tinggi di dalam cocor bebek membuat sistem pencernaan menjadi lebih lancar.
+            \nPertama, jemur beberapa lembar daun cocor bebek sampai kering. Tumbuk daun yang sudah mengering sehingga menjadi seperti bubuk kopi. Selanjutnya, larutkan bubuk tersebut dengan air panas. Minumlah air seduhan cocor bebek yang sudah dikeringkan tadi setiap pagi. Dijamin, Anda akan terbebas dari masalah sembelit.
+            \n\n
+            4. Mengurangi Frekuensi Muntah
+            \n\n
+            Untuk mengurangi frekuensi muntah, sebaiknya minumlah sari daun cocor bebek karena bahan alami tersebut dapat mengurangi frekuensi muntah. Rebus beberapa lembar daun cocor bebek, lalu tambahkan dengan sedikit gula merah agar rasanya lebih manis. Tunggu sampai airnya benar-benar hangat baru Anda dapat meminumnya.
+            5. Menghilangkan Jerawat dan Bekasnya\n\n
+            Manfaat cocor bebek yang satu ini berkaitan dengan cara menghilangkan jerawat. Cocor bebek mengandung anti-bakteri dan anti-inflamasi untuk membasmi bakteri penyebab jerawat dan mengurangi peradangannya.
+            \n
+            Lumatkan daun cocor bebek hingga halus, lalu campur dengan air mawar secukupnya. Jika tidak ada air mawar, Anda bisa menggunakan air biasa. Usapkan campuran air dan cocor bebek tadi ke wajah, lalu diamkan selama beberapa jam sebelum Anda membilas wajah dengan air hangat. Penggunaan secara teratur dapat mengurangi bekas jerawat maupun jerawat kemerahan yang mengganggu penampilan Anda.
+            \n\n
+            6. Antiseptik Penyembuh Luka \n
+            Mengingat daun cocor bebek mengandung anti-inflamasi dan anti-bakteri alami, maka daun ini dapat menjadi antiseptik untuk mempercepat penyembuhan luka.
+            \n
+            Selain itu, anti-bakteri di dalam cocor bebek dapat mencegah iritasi akibat luka. Cara menggunakan cocor bebek sebagai antiseptik penyembuh luka adalah cuci beberapa lembar daun cocor bebek hingga bersih. Kemudian, haluskan daun dengan cara ditumbuk. Setelah itu, campurkan dengan sedikit air.
+            \n
+
+        </item>
+        <!--Delima Putih-->
+        <item>
+            1. Obat Cacing \n\n
+            Khasiat dari delima putih yang pertama adalah sangat baik untuk mengobati penyakit cacingan. Delima putih akan sangat ampuh untuk membunuh cacing penyebab dari penyakit sekaligus menyembuhkan penyakit cacingan tersebut secara alami.
+            \n
+            Bagian akar delima putih juga bisa digunakan untuk menyembuhkan cacingan. Caranya, dengan mencuci bersih akar delima putih lalu mencampurnya dengan bawang putih dan ditambahkan dengan sedikit air lalu di saring dan minum sampai habis.
+            \n\n
+            2. Mencegah Kanker Payudara \n\n
+            Untuk para wanita, mengkonsumsi buah delima putih juga sangat baik untuk mencegah penyakit kanker payudara. Delima putih akan menyehatkan sel di dalam tubuh khususnya pada area payudara sehingga bisa mencegah timbulnya sel kanker payudara tersebut.
+            \n\n
+            3. Menurunkan Kadar Kolesterol \n\n
+            Kolesterol yang berlebihan di dalam tubuh sangat tidak baik dan menjadi pemicu timbulnya berbagai penyakit berbahaya lainnya. Mengkonsumsi delima putih bisa dijadikan alternatif alami untuk menurunkan kadar kolesterol dalam tubuh secara signifikan.
+            \n\n
+            4. Mengatasi Impotensi \n\n
+            Delima putih juga sangat berkhasiat untuk mengatasi impotensi, caranya adalah dengan memeras sari dari 1 delima putih matang lalu di campur dengan daging kelapa belia mulung, ketan gajih yang sudah di rendam, gula aren, gula pasir dan juga madu. Haluskan semua bahan dan rebus sampai tercampur rata dan minum ramuan ini sampai habis.
+            \n\n
+            5. Mengatasi Insomnia \n\n
+            Insomnia atau susah tidur juga bisa diatasi dengan memanfaatkan delima putih yakni bagian daunnya. Caranya, haluskan 3 gram daun delima putih dan rebus dengan 200 ml air sampai tersisa 1/4 bagian saja. Tunggu sampai agak dingin dan minum air ini sebelum anda pergi tidur.
+            \n\n
+            6.Menyembuhkan Sakit Perut\n\n
+            Untuk menyembuhkan sakit perut juga bisa dilakukan dengan memanfaatkan daun delima putih. Caranya adalah dengan merebus beberapa lembar daun delima putih dengan air dan minum air rebusan tersebut untuk melancarkan proses pencernaan.
+            \n\n
+            7. Mengatasi Disentri \n\n
+            Untuk menyembuhkan disentri bisa dilakukan dengan memanfaatkan buah serta daun delima putih karena kandungan anti bakteri yang ada di dalam tanaman ini. Caranya, rebus daun delima putih dengan air secukupnya, setelah cukup dingin, masukkan dalam blender dan tambahkan dengan daging buah delima putih yang matang seperti membuat jus. Minum jus ini sampai habis hingga disentri bisa sembuh total.
+            \n
+            8. Menyembuhkan Sakit Kuning \n\n
+            Penyakit kuning bisa terjadi karena penumpukkan bilirubin di dalam darah dan jaringan tubuh lain. Gejala dari sakit kuning juga bisa diatasi dengan memanfaatkan ekstrak dari delima putih. caranya, keringkan daun delima lalu haluskan hingga di dapat sebanyak 3 gram daun delima bubuk. Rebus bubuk delima putih ini lalu minum airnya sebanyak 2 kali dalam sehari.
+            \n\n
+            9. Mengatasi Eksim \n\n
+            Eksim yang merupakan salah satu penyakit kulit atau sering juga disebut dengan eksema bisa menyebabkan radang lepu pada permukaan kulit. Penyakit kulit ini juga bisa disembuhkan dengan memanfaatkan daun delima putih yakni dengan menghaluskan daun delima putih lalu tempelkan pada area kulit yang terkena eksim.
+            \n\n
+            10. Menyembuhkan Batuk \n\n
+            Daun delima putih juga bisa dimanfaatkan untuk menyembuhkan batuk. Caranya, rebus beberapa lembar daun delima yang sudah dikeringkan dan campur dengan tunas daun serta lada hitam. Saring ramuan ini dan minum selagi hangat.
+            \n\n
+            11. Menyembuhkan Sariawan \n\n
+            Untuk menyembuhkan sariawan yang merupakan salah satu gangguan pada mulut serta lidah biasanya akan menimbulkan rasa nyeri dan perih saat tersentuh makanan atau organ mulut yang lainnya. Untuk mengatasi sariawan ini bisa dilakukan dengan berkumur menggunakan air rebusan daun delima secara rutin sampai sariawan sembuh total.
+            \n\n
+            12. Menyembuhkan Sakit Telinga \n \n
+            Untuk menyembuhkan sakit telinga, caranya adalah dengan memanfaatkan daun dari pohon delima putih ini. Tumbuk halus beberapa lembar daun delima lalu sangrai bersama dengan minyak wijen. Tempelkan daun delima yang sudah di sangrai tersebut pada bagian telinga.
+            \n\n
+            13. Melancarkan Menstruasi \n\n
+            Untuk melancarkan menstruasi pada wanita, caranya dengan minum air rebusan daun delima putih secara rutin selama 5 hari berturut-turut. Rebus daun delima putih bersama dengan 1/2 gelas air dan tunggu sampai agak dingin lalu minum sampai habis.
+            14. Mengatasi Radang Gusi \n\n
+            Untuk mengatasi radang gusi, anda bisa mencuci bersih 7 kuntum bunga delima putih lalu rebus dengan 2 gelas air lalu saring dan gunakan air rebusan itu untuk berkumur.
+            \n\n
+            15. Mengatasi Sering Buang Air Kecil\n\n
+            Untuk mengatasi sering buang kecil, caranya adalah dengan mengeluarkan daging buah delima putih yang sudah matang lalu rebus dengan 1 genggam kucai dan 3 gelas air sampai tersisa 1 1/2 gelas air saja. Dinginkan dan minum air rebusan tersebut sebanyak 2 kali sehari sebanyak 3/4 gelas setiap kali minum.
+            \n\n
+            16. Mengatasi Keputihan
+            Untuk mengatasi keputihan pada wanita, rebus kulit buah delima putih sebanyak 30 gram dengan 15 gram sambiloto kering dengan 1 liter air bersih dan biarkan sampai tersisa 1/2 liter saja. Sesudah dingin, saring air rebusan dan gunakan untuk 3 kali minum yakni pagi, siang dan malam atau juga bisa untuk membasuh area vagina.
+            \n\n
+        </item>
+        <!--Kunyit-->
+        <item>
+            1. Anti-inflamasi Alami \n\n
+            Peradangan membantu tubuh melawan virus dan memperbaiki kerusakan.
+            \n
+            Namun, peradangan kronis menjadi masalah ketika tubuh mulai menyerang jaringannya sendiri, sehingga menghasilkan berbagai masalah kesehatan.
+            \n
+            Kunyit dapat membantu melawan peradangan dengan khasiat yang hampir sama sebagai obat anti-inflamasi, dan tanpa efek samping.
+            \n\n
+            2. Mencegah Alzheimer \n\n
+            Mengkonsumsi kunyit dapat membantu meningkatkan Brain-Derived Neurotrophic Factor (BDNF), sejenis hormon pertumbuhan di otak yang meningkatkan fungsi otak.
+            \n\n
+            3. Menurunkan Risiko Penyakit Jantung \n\n
+            Faktor utama penyakit jantung adalah adanya disfungsi endotel (selaput sel darah).
+            \n
+            Sedangkan kunyit dapat membantu meningkatkan fungsi endotelium.
+            \n\n
+            4. Mencegah dan Mengobati Kanker \n\n
+            Kunyit dapat membantu mencegah dan mengobati kanker.
+            \n\n
+            Para peneliti menemukan bahwa curcumin berperan dalam mematikan sel kanker, serta mengurangi penyebaran penyakit.
+            \n
+            Kunyit juga diketahui dapat mencegah kanker, terutama untuk kanker pencernaan seperti kanker kolorektal
+            \n\n
+            5. Membantu Memerangi Depresi
+            Kurkumin dalam kunyit juga menunjukkan hasil yang signifikan dalam mengobati depresi.
+            \n
+            Kunyit juga dapat membantu meningkatkan serotonin dan dopamin, dua neurotransmitter terpenting di otak.
+            \n\n
+            6. Dapat Membantu Mengobati Endometriosis
+            \n\n
+            Peradangan yang disebabkan oleh hormon estrogen, yakni endometriosis, juga dapat terbantu dengan rempah-rempah ini.
+        </item>
+        <!--Lidah Buaya-->
+        <item>
+            1. Mengobati Luka \n\n
+            Jika Anda memiliki tanaman lidah buaya di halaman rumah, bisa sekali menjadi pertolongan pertama jika terjadi luka atau sun burn. Kandungan polisakarida yang ada di dalamnya mampu mencegah infeksi pada luka dan menyembuhkan luka dengan lebih cepat tanpa bekas. Lalu terdapat pula kandungan anti bakterinya yang dapat mencegah infeksi sekunder yang biasa muncul pada luka bakar yang berkepanjangan dan efek antioksidan yang dimiliki lidah buaya dapat menghambat reaksi peradangan pada luka bakar. Lidah buaya juga bersifat analgesik, yaitu mampu mengurangi rasa perih karena luka. Tumbuhan yang satu ini juga sangat baik untuk mengobati luka bakar hingga gigitan serangga.
+            \n
+            Namun, perlu diketahui bahwa penelitian yang pernah dilakukan sejauh ini membuktikan bahwa lidah buaya hanya mampu membantu penyembuhan luka bakar derajat 1 dan derajat 2, di mana luka bakar belum sampai menembus lapisan dalam kulit atau yang disebut dengan dermis. Anda bisa langsung mengambil lidah buaya segar untuk diletakkan di luka anak agar cepat sembuh.
+            \n\n
+            2. Membantu Mengatasi Jerawat\n\n
+            Wajah sedang bermasalah karena jerawat? Mungkin dengan Aloe Vera bisa dicoba. Karena Aloe vera mengandung asam salisilat alami yang berfungsi membunuh bakteri penyebab jerawat. Setelah membersihkan kulit, cobalah untuk mengaplikasikan lidah buaya ini untuk mendapatkan kulit bersih dan bersinar.
+            \n\n
+            3. Mempercepat Penyembuhan Sariawan Atau Luka Di Mulut
+            Mempercepat Penyembuhan Sariawan Atau Luka Di Mulut \n\n
+            \n
+            Tidak jarang kita mendapati mulut kita mengalami sariawan akibat tergigit, terluka saat menyikat gigi dengan keras, ataupun saat kita kekurangan vitamin C. Untuk mempercepat penyembuhan luka sariawan, anda dapat menggunakan lidah buaya sebagai campuran saat berkumur atau langsung mengoleskan gel lidah buaya pada bagian yang mengalami luka. Kandungan vitamin C lidah buaya dapat mempercepat penyembuhan sariawan. Selain itu, kandungan zat lupeol dalam lidah buaya bersifat sebagai antiseptik dan membantu mengurangi rasa nyeri di mulut.\n
+        </item>
+        <!--Mengkudu-->
+        <item>
+            1. Analgetik \n\n
+            Studi menunjukkan bahwa buah mengkudu memiliki efek anti nyeri yang dapat digunakan sebagai pada nyeri sendi.
+            \n\n
+            2. Meningkatkan sistem imun \n\n
+            Buah mengkudu dapat mengaktifasi dan memperkuat sistem pertahanan tubuh (antibodi). Selain itu, buah mengkudu juga mengandung zat antibakteri yang dapat melawan bakteri seperti Staphylococcus aureus dan Eschericia coli.
+            \n\n
+            3. Anti depresan / sedatif \n\n
+            Buah mengkudu dapat menstimulasi hormon serotonin dan melatonin. Hormon serotonin berperan dalam mood, emosi dan saat tidur, yang mana ketidakseimbangan pada kadar hormon serotonin dapat menyebabkan depresi. Hormon melatonin mengatur Circadian rhythm, yang mana berkontribusi agar tidur dapat nyenyak dan juga berperan dalam meningkatkan mood.
+            \n\n
+            4. Perawatan rambut dan kulit \n\n
+            Konsumsi buah mengkudu dapat mengatasi masalah kulit, seperti eksim dan jamur. Selain itu, aplikasi buah mengkudu pada rambut dapat menyehatkan rambut.
+            \n\n
+            5. Anti tumor atau anti kanker \n\n
+            Produksi nitrat oksida dapat distimulasi oleh buah mengkudu. Hal ini dapat mencegah tumbuhnya tumor dan mencegah pertumbuhan sel kanker pada tubuh.
+            \n\n
+            6. Hipertensi \n\n
+            Buah mengkudu kaya akan fitonutrien, selenium, dan vitamin C, yang berperan dalam melawan radikal bebas yang dapat merusak dinding pembuluh darah.
+            \n\n
+            7. Kolesterol \n\n
+            Absorbsi kolesterol LDL dapat dicegah dengan buah mengkudu, sehingga mengurangi risiko penumpukan plak pada pembuluh darah dan menurunkan risiko terjdinya penyakit jantung.
+            \n\n
+            8. Mengatasi konstipasi \n\n
+            Buah mengkudu tinggi akan serat yang baik untuk pencernaan serta dapat mengatasi masalah konstipasi. Di samping itu, buah mengkudu juga mengandung sejumlah vitamin dan mineral yang menjaga agar sistem penceranaan tetap sehat.
+            \n
+        </item>
+        <!--Nona Makan Sirih-->
+        <item>
+            1. Radang Kronis Selaput Gendang Telinga ( pada anak-anak)
+            \n\n
+            Cuci bersih 10-15 g daun nona makan sirih, lalu rebuas dengan 3 gelas air hingga tersisa 1 gelas. Saring air hasil rebusannya, lalu minum 2 kali sehari masing-masing ½ gelas.
+            \n\n
+            2. Kencing Batu dan Pelancar Air Seni \n\n
+            Cuci bersih 15 g daun nona makan sirih segar, lalu rebus dengan 3 gelas air selama 15 menit. Setelah dingin, saring air rebusannya, lalu bagi dua untuk diminum 2 kali pada waktu pagi dan sore hari.
+            \n
+        </item>
+        <!--Pegagan-->
+        <item>
+            1. Menyembuhkan luka \n\n
+            Daun pegagan mengandung bahan kimia yang dikenal dengan nama triterpenoid. Senyawa ini bermanfaat untuk mempercepat penyembuhan luka dengan cara meningkatkan kadar antioksidan, memperkuat jaringan kulit, dan meningkatkan suplai darah ke area luka.
+            \n\n
+            2. Mengatasi stretch mark \n\n
+            Dikutip dari penelitian dalam Advances in Dermatology and Allergology, pegagan mampu mengurangi tampilan stretch mark. Kandungan triterpenoid di dalam pegagan mampu meningkatkan produksi kolagen di dalam tubuh. Dengan begitu, tak hanya menyamarkan stretch mark yang telah ada tetapi juga mencegah terbentuknya stretch mark baru.
+            \n
+        </item>
+
+
+
+        <!--Rosela-->
+        <item>
+            1. Mengatasi infeksi dan peradangan \n\n
+            Bunga rosella memiliki kandungan vitamin  C yang cukup tinggi. Vitamin C yang ada di dalam bunga rosela bisa meningkatkan sistem kekebalan tubuh. Selain itu, kandungan vitamin C ini juga bersifat antibakteri dan antiinflamasi.
+            \n
+            Jadi, manfaat bunga rosella bisa untuk mengobati beberapa penyakit yang disebabkan karena infeksi bakteri atau adanya peradangan. Bunga rosela bisa meredakan nyeri haid, demma, batuk, pilek, dan lainnya.
+            \n\n
+            2. Mengurangi rasa cemas dan depresi\n\n
+            Bunga rosella ternyata juga memiliki manfaat terhadap kondisi tubuh secara psikis. Manfaat bunga rosella bisa untuk mengurangi rasa cemas dan depresi karena suatu hal tertentu. Ini dikarenakan rosella mengandung flavonoid.
+            \n
+            Flavonoid yang terkandung di dalam bunga rosela memiliki sifat antidepresan. Pengonsumsian bunga rosela baik dalam bentuk teh maupun olahan lainnya bisa membuat Anda merasa lebih tenang dan santai.
+            \n\n
+            3. Mencegah tumor dan kanker\n\n
+            Tumor dan kanker adalah masalah medis yang sangat serius dan menyeramkan. Oleh karena itu, cegahlah sebelum hal itu menyerang Anda. Anda bisa mengonsumsi bunga rosella untuk mencegah tumor dan kanker karena rosela mengandung zat antioksidan dan antikarsinogenik.
+            \n
+            4. Menjaga kesehatan pencernaan \n\n
+            Kondisi kesehatan saluran pencernaan sangat memengaruhi kesehatan tubuh secara menyeluruh. Saluran pencernaan yang sehat juga akan membuat tubuh menjadi lebih sehat. Oleh karena itu, kesehatan saluran pencernaan harus tetap dijaga.
+            \n
+            Bunga rosella bisa meningkatkan dan menjaga kesehatan saluran pencernaan. Pengonsumsian bunga rosela bisa melancarkan buang air besar sehingga bisa mengatasi sembelit atau sulit buang air besar.
+            \n\n
+            5. Menjaga kesehatan organ hati\n\n
+            Manfaat bunga rosela bisa menjaga kesehatan organ hati agar terhindar dari berbagai jenis masalah medis. Hal ini dikarenakan kandungan antioksidan di dalam bunga rosella terbukti mampu mengobati masalah atau gangguan hati.
+            \n
+            Kandungan antioksidan pada bunga rosella bisa menangkal radikal bebas dan menetralisir racun yang ada di jaringan dan sel-sel tubuh. Ini membuat kerja hati menjadi lebih ringan karena racun-racun di dalam tubuh sudah banyak terbuang oleh antioksidan.
+            \n\n
+        </item>
+        <!--Sirih-->
+        <item>
+            1. Menghilangkan Bau Badan\n\n
+            Rebuslah 5 lembar daun sirih segar dengan 2 gelas air. Perebusan dilakukan hingga airnya tinggal satu gelas. Air ini diminum siang hari.\n\n
+
+            2. Mengobati Mimisan\n\n
+            Ambillah 1 lembar daun sirih segar yang agak muda, cuci hingga bersih. Daun ditekuk, lalu tekukannya digulung sebesar lubang hidung. Lalu gulungan daun sirih tersebut dimasukkan kedalam lubang hidung yang berdarah. Lakukan hingga darah berhenti mengalir. Usahakan penderita tetap duduk tegak agar darah tidak mengalir ke belakang rongga hidung.
+            \n\n
+            3. Pembersih Mata yang Gatal atau Merah.
+            \n\n
+            Rebuslah 5-6 lembar daun sirih muda yang baru dipetik dengan 1 gelas air. Setelah mendidih air di dinginkan. Basuh mata dengan air rebusan tadi sehari 3 kali.
+            \n\n
+            4. Mengobati Koreng atau Gatal-Gatal.
+            \n\n
+            Ambil 20 lembar daun sirih yang cukup tua. Rebus dengan air sekitar 3-4 gelas. Gunakan air rebusan yang masih hangat untuk mencuci bagian tubuh yang terkena koreng dan gatal.
+            \n\n
+            5. Mengobati Sariawan.Petiklah 1 atau 2 lembar daun sirih, bersihkan lalu kunyah daun tersebut hingga lumat. Biarkan sebentar di dalam mulut, terutama dibagian yang terkena sariawan.
+            \n\n
+        </item>
+        <!--Temulawak-->
+        <item>
+            1. Membantu Melancarkan Buang Air Besar\n\n
+            Kandungan serat dan kurkumin yang cukup tinggi pada temulawak dapat membantu melancarkan buang air besar. Bagi anda yang memiliki masalah susah buang air besar, maka sangat disarankan untuk mengonsumsi tanaman temu-temuan jenis ini.
+            \n\n
+            2. Membantu Meningkatkan Fungsi Ginjal\n\n
+            Temulawak juga mampu membantu meningkatkan fungsi ginjal dalam menyaring darah dari racun dan sisa-sisa metabolisme tubuh. Manfaat temulawak yang satu ini diperantarai oleh adanya kandungan minyak asiri sebanyak 6,00 % di dalamnya.
+            \n\n
+            3. Membantu Mengeluarkan Toksin dalam Tubuh
+            \n\n
+            Sejalan dengan khasiat temulawak untuk ginjal di atas, maka mengonsumsi tanaman jamu yang satu ini secara rutin dapat membantu mengeluarkan toksin dari dalam tubuh. Manfaat tersebut juga perantarai oleh adanya kandungan Phelandren dalam tanaman tersebut.
+            \n\n
+            4. Membantu Pemulihan Kesehatan Tubuh\n\n
+            Bagi anda yang baru saja menjalani proses penyembuhan akibat penyakit, maka sangat dianjurkan untuk mengonsumsi temulawak. Khasiat temulawak yang satu ini diperantarai oleh kandungan borneol di dalamnya secara aktif mampu membantu proses penyembuhan terhadap penyakit atau luka dalm tubuh.
+           \n\n
+            5. Membantu Proses Metabolisme pada Tubuh\n\n
+            Metabolisme yang lancar akan memberikan dampak kesehatan pada tubuh secara kesuluruhan, dan tanaman jamu yang satu ini mampu membantu melancarkannya. Manfaat temulawak untuk metabolisme tubuh diperantarai oleh kandungan pati dan turmerol sehingga sangat baik untuk dikonsumsi sehari-hari.
+            \n\n
+        </item>
+        <!--Urang-Aring-->
+        <item>
+            1. Menghilangkan ketombe. \n\n
+            Tanaman urang aring dapat berkhasihat untuk mengilangkan ketombe yakni dengan cara menggunakan minyak urang aring yang didapat dari sari daun ( atau dengan mengekstrak daun urang aring ). Cara mengoleskan pada kulit kepala lalu dipijat dengan perlahan. Ketombe tidak akan balik lagi karena hal ini akan mengakibatkan kulit kepala tidak lagi kering.
+            \n\n
+            2. Menyuburkan rambut. \n\n
+            Sejak dulu tanaman urang aring dikenal sebagai tanaman yang berkhasiat menyuburkan rambut. Bahkan beberapa shampoo merek terkenal juga menggunakan urang aring sebagai bahan dasar shampoo. Jika punya masalah dengan kesuburan rambut cara untuk bisa mengatasinya dengan tanaman urang aring sangat mudah dalam pengaplikasiaannya, yakni hanya dengan mengambil beberapa lembar daun urang aring, direndam dalam air, diremas hingga menghitam lalu air rendamannyalah yang digunakan untuk dioleskan dibagian kepala.
+            \n\n
+            3. Menghitamkan rambut. \n\n
+            Tidak bebeda dengan dua manfaat sebelumnya yakni menggunakan sari urang aring atau minyak urang aring yang didapat dari mengekstrak daun urang aring. Minyak ini digunakan dan dioleskan ke seluruh bagian rambut dengan rutin, dijamin akan memperoleh rambut yang hitam yang lebat.
+            \n\n
+            4. Mengobati gangguan lambung.\n\n
+            Jika anda mengalami diare, terserang asam lambung, atau radang serta iritasi lambung maka cukup dengan meminum air daun urang aring yang telah direbus hingga mendidih, maka akan mengatasi gangguan lambung yang kita alami.
+            \n\n
+            5. Mengatasi gangguan hati. \n\n
+            Caranya hanya dengan meminum air rebusan daun urang aring.
+            \n\n
+
+        </item>
+        <!--Valerian-->
+        <item>
+            1. Meredakan rasa cemas berlebih\n\n
+            Para ilmuwan telah menemukan bahwa akar valerian dapat meningkatkan jumlah zat kimia yang disebut asam gamma aminobutyric (GABA) di otak. GABA adalah zat yang membantu mengatur sel-sel saraf serta menurunkan tingkat cemas. Namun, jika Anda mengonsumsi obat penenang atau antidepresan lainnya, tidak disarankan menggunakan obat atau suplemen herbal dari akar valerian.
+            \n\n
+            2. Menurunkan tekanan darah\n\n
+            Selain itu, manfaat akar valerian bukan hanya bisa menenangkan pikiran dan tubuh saja. Akar valerian juga banyak digunakan untuk menurunkan tekanan darah serta meningkatkan kesehatan jantung. Komponen zat aktif di dalam akar valerian untuk mengatasi stres dan cemas juga dapat membantu tubuh mengatur tekanan darah agar stabil dan normal.
+            \n\n
+            4. Meredakan nyeri saat menstruasi\n\n
+            Manfaat akar valerian selanjutnya adalah bisa menjadi obat pereda rasa nyeri saat wanita sedang PMS atau saat menstruasinya berlangsung. Akar valerian mengandung zat penenang dan zat antispasmodic yang bisa menahan kejang otot dan bertindak sebagai penenang otot alami.
+            \n
+            Akar valerian efektif untuk menenangkan kontraksi otot rahim selama menstruasi, dan ini telah diuji dan diteliti oleh Islamic Azad University di Iran.\n\n
+            5. Meredakan stres\n\n
+            Berhubung akar valerian bisa mengurangi kecemasan, membuat cepat tertidur bagi orang yang susah tidur, dan bisa membuat tidur lebih nyenyak, ini juga bisa berdampak bagi orang yang sedang mengalami stres. Pasalnya, stres kronis dan rasa cemas saling berhubungan erat satu sama lain. Tak jarang kedua hal ini tidak dapat dipisahkan. Lalu, bila salah satu dapat diatasi, maka dampak lain antara stres dan rasa cemas juga bisa berkurang.
+            \n\n
+        </item>
+        <!--Wijaya Kusuma-->
+        <item>
+            1.	Mengatasi batuk berdahak (TBC) \n\n
+            Tuberkolosis merupakan salah satu penyakit yang berbahaya, ciri-cirinya adalah batuk berdahak yanag tidak berhenti-henti, bisanya disebabkan oleh bakteri dan virus yang menempel di tenggorokan, jika dibiarkan akan menjadi masalah besar bahkan hingga menimbulkan kematian. Jika anda atau saudara dan kerabat anda mengalami penyakit ini, disarankan untuk mengkonsumsi bunga wijaya kususma, kandungan nutrisi di dalamnya sangat efektif untuk menghilangkan virus penyebab TBC. Caranya dengan merebus bunga wijaya kusuma 3-5 kuntum bunga, lalu tambahkan air serta campu dengan manfaat gula aren sebanyak 15 gram. Tunggu hingga dingin, kemudian minumlah air rebusan tadi. Lakukanlah hal ini dua kali sehari setiap hari sampai sembuh.
+            \n\n
+            2.	Mengobati sesak nafas (asma)\n\n
+            Ketika terjadi asma, kebanyakan orang masih menggunakan obat-obatan yang dijual di toko untuk mengobatinya, padahal obat-obatan itu ada efek sampingnya. Ada alternatif pengobatan herbal tanpa efek samping dan terbukti ampuh yaitu dengan mengkonsumsi bunga wijaya kusuma. Dengan mengkonsumsinya ada akan merasakan kesegaran, sehingga pernafasan anda akan terbantu dan menjadi normal kembali. Caranya ,mudah hanya ambil dan cuci 3-5 kuntum bunga wijaya kusuma, lalu potong-potong kecil, masukkan ke dalam air dan dicampur dengan manfaat gula batu sampai tertutup semua permukaan bunga wijaya kusuma, setelah itu tim. Tunggu hingga dingin lalu minumlah sebanyak dua kali sehari untuk mendapatkan hasil yang maksimal.
+            \n\n
+            3.	Mengatasi radang tenggorokan\n\n
+            Bagi anda yang memiliki gangguan pada tenggorokan, seperti serak ataupun radang. Tak usah kawatir anda bisa mengatasinya dengan cara yang mudah dan praktis. Anda bisa mengkonsumsi bunga wijaya kusuma, karena bunga ini memiliki rasa mint yang membuat tenggorokan anda menjadi segar dan lembab kembali. Caranya cukup dengan merebus 3-5 kuntum bunga wijaya kusuma, tunggu hingga dingin dan minumlah. Tunggu beberapa saat kandungan bunga wijaya kususma akan bekerja untuk mengatasi radang tenggorokan anda. (Baca juga : manfaat daun mint dan manfaat daun mangga)
+            \n\n
+            4.	Mengobati nyeri lambung (gastritis)\n\n
+            Lambung kita sangat peka terhadap asam, jika lambung anda bermasalah jangan konsumsi makanan atau minuman yang bersifat asam. Untuk anda yang terlanjur sakit pada lambungnya, anda bisa mengatasinya dengan mengkonsumsi bunga wijaya kusuma, bunga ini sangat efektif dan aman untuk meredakan nyeri pada lambung anda, karena bunga ini memiliki PH netral sehingga tidak akan mengganggu lambung anda. Cukup dengan merebus bunga wijaya kusuma sebanyak 3-5 kuntum, setelah itu diminum 3 kali sehari untuk mendapatkan hasil yang anda inginkan.
+            \n
+
+        </item>
+
 
     </string-array>
 
@@ -94,40 +534,435 @@
     <!--START OF DATA PENYAKIT-->
 
     <string-array name="nama_penyakit">
+        <item>Obat Amandel</item>
         <item>Obat Batuk</item>
+        <item>Obat Cacar</item>
         <item>Obat Demam</item>
         <item>Obat Flu</item>
         <item>Obat Sakit Tenggorokan</item>
+        <item>Obat Pilek</item>
+        <item>Obat Pusing</item>
+        <item>Obat Mual</item>
+        <item>Obat Diare</item>
+        <item>Obat Sembelit</item>
         <item>Obat Sariawan</item>
+        <item>Obat Demam Berdarah</item>
         <item>Obat Bibir Kering</item>
-
-
+        <item>Obat Panu</item>
     </string-array>
 
     <string-array name="foto_penyakit">
-        <!--batuk-->
-        <item>https://i.imgur.com/XoGDjIY.jpg</item>
-        <!--demam-->
-        <item>https://i.imgur.com/wpoutlZ.jpg</item>
-        <!--flu-->
-        <item>https://i.imgur.com/DG3tAHh.jpg</item>
-        <!--sakit tenggorokan-->
-        <item>https://i.imgur.com/MJxLjlS.jpg</item>
+        <!--Amandel-->
+        <item>https://i.imgur.com/X0asquM.jpg</item>
+        <!--Batuk-->
+        <item>https://i.imgur.com/TmRPdhp.jpg</item>
+        <!--Cacar-->
+        <item>https://i.imgur.com/dCRpZvN.jpgg</item>
+        <!--Demam-->
+        <item>https://i.imgur.com/8eo6hM5.jpg</item>
+        <!--Flu-->
+        <item>https://i.imgur.com/l2gRpkk.jpg</item>
+        <!--Sakit Tenggorokan-->
+        <item>https://i.imgur.com/6ctoRLh.jpg</item>
+        <!--Pilek-->
+        <item>https://i.imgur.com/NQ6QFJO.jpg</item>
+        <!--Pusing-->
+        <item>https://i.imgur.com/MTtipSO.jpg</item>
+        <!--Mual-->
+        <item>https://i.imgur.com/1VO08gV.jpg</item>
+        <!--Diare-->
+        <item>https://i.imgur.com/0Yxgujq.jpg</item>
+        <!--Sembelit-->
+        <item>https://i.imgur.com/VuFPO1j.jpg</item>
         <!--Sariawan-->
-        <item>https://i.imgur.com/PWBSDuJ.jpg</item>
-        <!--bibir kering-->
-        <item>https://i.imgur.com/7tG8Osq.jpg</item>
-
+        <item>https://i.imgur.com/F3Rzdum.jpg</item>
+        <!--Demam Berdarah-->
+        <item>https://i.imgur.com/1bVtDMR.jpg</item>
+        <!--Bibir Kering-->
+        <item>https://i.imgur.com/yGbhyJw.jpg</item>
+        <!--Panu-->
+        <item>https://i.imgur.com/BwkNdZm.jpg</item>
     </string-array>
 
     <string-array name="desc_penyakit">
-        <item>Obat Batuk</item>
-        <item>Obat Demam</item>
-        <item>Obat Flu</item>
-        <item>Obat Sakit Tenggorokan</item>
-        <item>Obat Sariawan</item>
-        <item>Obat Bibir Kering</item>
+        <item>Amandel adalah dua kelenjar kecil yang terdapat di dalam tenggorokan. Organ ini berfungsi sebagai pencegah infeksi. Selain berfungsi melawan infeksi, amandel juga berfungsi untuk membasmi kuman ketika Anda bernapas atau memasukan makanan atau minuman ke dalam mulut.</item>
+        <item>Batuk merupakan mekanisme pertahanan tubuh di saluran pernapasan dan merupakan gejala suatu penyakit atau reaksi tubuh terhadap iritasi di tenggorokan karena adanya lendir, makanan, debu, asap dan sebagainya.</item>
+        <item>Cacar air adalah penyakit kulit akibat infeksi virus varicella yang menyebabkan timbulnya lenting pada seluruh tubuh dan wajah. Infeksi juga bisa menyerang selaput lendir (membran mukosa), seperti di mulut.</item>
+        <item>Demam adalah suatu keadaan saat suhu badan melebihi 37 °C yang disebabkan oleh penyakit atau peradangan.</item>
+        <item>Flu atau influenza adalah infeksi virus yang menyerang hidung, tenggorokan, dan paru-paru. Penderita flu akan mengalami demam, sakit kepala, pilek, hidung tersumbat, serta batuk. </item>
+        <item>Sakit tenggorokan adalah kondisi rasa nyeri, rasa gatal atau rasa perih yang dirasakan pada tenggorokan. Gejala sakit tenggorokan paling sering dialami ketika Anda menelan makanan atau menelan air liur.</item>
+        <item>Pilek adalah kondisi ketika hidung mengeluarkan ingus atau lendir, baik sesekali maupun terus-menerus. Lendir yang keluar dapat terlihat bening, hijau, atau kekuningan. Teksturnya bisa encer atau kental, tergantung kepada penyebab yang mendasarinya.</item>
+        <item>Pusing adalah istilah yang sering digunakan untuk menjelaskan perasaan melayang, mengambang atau tidak seimbang. Pusing bukan sebuah penyakit, melainkan gejala dari bermacam-macam gangguan kesehatan.</item>
+        <item>Mual adalah sensasi ketidaknyamanan pada perut bagian atas atau belakang tenggorokan, sering kali disertai dengan dorongan untuk muntah. Mual bisa merupakan efek samping beberapa obat-obatan, atau suatu gejala penyakit atau kelainan.</item>
+        <item>Diare (bahasa Inggris: diarrhea) adalah sebuah penyakit di saat tinja atau feses berubah menjadi lembek atau cair yang biasanya terjadi paling sedikit tiga kali dalam 24 jam.</item>
+        <item>Sembelit adalah suatu kondisi di mana pergerakan usus menurun atau sulit buang air besar untuk waktu yang lama. Sembelit atau yang punya nama lain konstipasi ini, umumnya diartikan sebagai kondisi buang air besar kurang dari 3 kali dalam seminggu.</item>
+        <item>Sariawan yang dalam istilah medis disebut stomatitis aftosa (apthous stomatitis) atau canker sore adalah luka di dalam mulut yang dapat menimbulkan rasa sakit dan tidak nyaman.</item>
+        <item>Demam berdarahatau demam berdarah dengue (DBD) adalah penyakit yang disebabkan oleh infeksi virus Dengue. Virus ini masuk ke dalam tubuh manusia melalui gigitan nyamuk Aedes aegypti dan Aedes albopictus, yang hidup di wilayah tropis dan subtropis.</item>
+        <item>Bibir kering dan pecah-pecah menjadi salah satu keadaan yang kurang disukai karena bisa membuat tampilan menjadi kurang maksimal. Bibir kering biasanya membuat lapisan permukaan bibir mengelupas atau pecah-pecah bahkan hingga berdarah.</item>
+        <item>Panu adalah penyakit akibat infeksi jamur Malassezia yang ditemukan pada permukaan kulit. Umumnya, jamur yang secara normal tinggal pada kulit, seperti Malassezia, tidak menyebabkan masalah kesehatan.</item>
 
+    </string-array>
+
+    <string-array name="obat_alami_penyakit">
+        <!--Obat Amandel-->
+        <item>
+            1. Air garam\n\n
+            Cara alami yang paling sederhana untuk mengatasi peradangan amandel adalah dengan cara berkumur menggunakan air garam hangat. Air hangat memiliki efek menenangkan amandel, sedangkan garam bertindak sebagai antiseptik alami yang membantu mengurangi peradangan dengan membunuh virus dan bakteri.
+            \n
+            Caranya cukup dengan mencampurkan setengah sendok teh garam ke dalam secangkir air hangat. Lalu, berkumurlah dengan larutan tersebut selama beberapa detik dan pastikan bahwa air garam mencapai amandel yang meradang. Pastikan pula tidak ada air garam yang tertelan saat Anda berkumur. Setelah itu, Anda dapat berkumur dengan air biasa hingga rasa asin hilang.
+            \n\n
+            2. Teh hangat dan madu \n\n
+            Madu memiliki senyawa antibakteri kuat yang bermanfaat untuk melawan infeksi pada radang amandel. Sementara minuman hangat seperti teh bisa mengurangi rasa nyeri akibat amandel yang membengkak. Teh jahe dan teh adas adalah dua contoh teh dengan kandungan senyawa antiradang tertinggi yang dapat memberikan manfaat ini. Kombinasi teh hangat dan madu dapat menjadi obat alami yang membuat kerongkongan Anda terasa lebih nyaman sekaligus menghalau infeksi.
+            \n
+            Campurkan satu sendok teh madu ke dalam secangkir teh jahe. Kemudian, aduk hingga madu larut seluruhnya. Anda dapat meminumnya secara rutin setiap hari saat amandel terasa nyeri, tapi ingatlah untuk tidak mengonsumsinya dalam kondisi panas.
+            \n\n
+            3. Air perasan lemon dan madu\n\n
+            Khasiat lemon untuk kesehatan memang sudah tidak diragukan lagi. Lemon memiliki sifat anti-virus, anti-bakteri, dan anti-inflamasi sehingga ampuh melawan infeksi dan peradangan. Selain itu, kandungan vitamin C di dalamnya mampu meningkatkan kekebalan tubuh terhadap infeksi.
+            \n
+            Sebagai obat alami radang amandel, Anda bisa menggunakan perasan air lemon (1 buah), sedikit garam, dan satu sendok teh madu ke dalam segelas air hangat. Aduk sampai tercampur semua, lalu minum secara perlahan. Lakukan rutinitas ini dua kali dalam sehari untuk mempercepat penyembuhan.
+            \n\n
+            4. Tablet hisap untuk sakit tenggorokan\n\n
+            Beberapa jenis tablet hisap memiliki kandungan khusus yang dapat melegakan nyeri pada tenggorokan akibat peradangan amandel. Ada pula jenis tablet hisap yang dibuat dari bahan-bahan mengandung senyawa antiradang, misalnya akar manis yang lebih dikenal dengan sebutan licorice.
+            \n
+            Tablet hisap mengandung akar licorice memiliki senyawa antiradang kuat yang dapat meredakan peradangan serta pembengkakan pada amandel dan tenggorokan. Namun, tablet hisap sebaiknya tidak diberikan pada anak-anak karena berisiko membuat anak tersedak. Sebagai gantinya, Anda dapat menggunakan obat radang amandel berbentuk semprotan dengan anjuran dokter.
+            5. Bawang putih\n\n
+            Sebagai salah satu obat alami yang sudah digunakan selama ribuan tahun, bawang putihdipercaya dapat memperkuat sistem kekebalan tubuh karena kaya akan kandungan senyawa antioksidan, antibakteri dan antiviral sehingga efektif untuk melawan virus akibat pilek, flu, dan peradangan amandel.
+            \n
+            Salah satu cara menggunakan bawang putih sebagai obat alami radang amandel adalah dengan memakannya secara utuh. Namun, jika Anda tidak tahan dengan aroma dan rasa yang menyengat dari bawang putih, Anda bisa mencampurkannya dengan teh herbal.
+            \n
+            Caranya, rebus dua siung bawang putih yang sudah digeprek selama 5 menit dalam satu cangkir air. Lalu, angkat dan saring air bawang putih dari air rebusan. Untuk memberikan rasa manis, Anda bisa menambahkan satu sendok teh madu.
+            \n\n
+            6. Kayu manis\n\n
+            Tidak hanya bermanfaat sebagai bumbu masakan atau kue, kayu manis ternyata juga bisa membantu meredakan radang amandel. Hal ini disebabkan karena kayu manis kaya akan senyawa antimikroba sehingga mampu menghambat pertumbuhan bakteri dan mikroorganisme lainnya yang melekat pada amandel. Karena fungsi inilah, kayu manis dikenal sebagai obat radang amandel alami yang mampu mengurangi pembengkakan, rasa sakit. dan peradangan.
+            \n
+            Untuk mendapatkan manfaatnya, campurkan satu sendok teh bubuk kayu manis ke dalam segelas air panas. Setelah itu, campurkan dua sendok teh madu hingga larut dan merata. Hirup uap air yang menguar saat air masih panas. Kemudian, Anda bisa meminumnya begitu suhunya menjadi hangat. Campuran alami kayu manis ini bisa dikonsumsi sebanyak 2-3 kali sehari selama seminggu.
+            7. Kunyit\n\n
+            Kunyit merupakan salah satu jenis rempah-rempah yang bermanfaat sebagai anti-inflamasi dan antiseptik alami yang cukup kuat. Jadi tidak heran jika kunyit mampu membantu melawan infeksi amandel dan bisa melegakan gejala amandel yang sangat mengganggu saat Anda menelan.
+           \n
+            Jika Anda salah satu orang yang suka mengonsumsi susu, Anda bisa mencampurkan segelas susu hangat dengan satu sendok teh bubuk kunyit dan sejumput lada hitam. Minumlah ramuan kunyit ini pada malam hari selama 2-3 hari berturut-turut. Cara ini dipercaya ampuh untuk mempercepat penyembuhan radang amandel.
+
+        </item>
+        <!--Obat Batuk-->
+        <item>
+            1. Lemon dan Jeruk Nipis\n\n
+            Bahan alami pertama yang bisa Anda gunakan sebagai obat untuk meredakan batuk secara alami adalah lemon dan jeruk nipis. Kedua bahan ini memiliki kandungan vitamin C yang sangat tinggi serta antibakteri yang berkhasiat untuk membasmi bakteri yang masuk ke dalam tubuh. Caranya, Anda bisa ambil perasan air lemon dan jeruk nipis. Kemudian campur dengan 1 sendok madu dan segelas air, lalu minum.
+            \n\n
+            2. Bawang Putih dan Bawang Merah\n\n
+            Kedua bahan dapur ini bisa Anda gunakan untuk meredakan batuk kering yang disertai rasa gatal. Dimana kandungan phytochemical yang terdapat di dalam bawang merah serta anti bakteri yang terkandung dalam bawang putih mampu mengatasi kondisi batuk dengan sangat ampuh. Caranya, Anda bisa mengkonsumsinya secara mentah. Atau jika mau Anda bisa mmbuatnya sebagai jus. Meskipun rasanya tidak enak namun kedua bahan ini cukup ampuh untuk mengatasi batuk kering.
+            \n\n
+            3. Jahe\n\n
+            Jahe sudah banyak digunakan sebagai obat batuk alami oleh banyak orang. Selain sifat anti bakteriannya, bahan tradisional ini juga dapat meningkatkan suhu dalam tubuh. Anda bisa menggunakan jahe sebagai obat batuk kering dan obat batuk berdahak dan gatal dengan membuatnya sebagai wedang jahe.
+            \n\n
+            4. Daun Kemangi\n\n
+            Kemangi sering digunakan sebagai obat batuk yang aman dikonsumsi. Dimana mengkonsumsi jus kemangi dipercaya mampu meredakan batuk secara lebih cepat. Anda bisa mengkonsumsinya dengan cara dibuat juas atau daun kemangi yang telah direbus.
+            \n\n
+        </item>
+        <!--Obat Cacar Air-->
+        <item>
+            1. Baking Soda\n\n
+            Baking soda dapat digunakan sebagai obat alami cacar air. Obat alami ini dapat membantu mengendalikan gatal dan iritasi akibat cacar air. Adapun langkah yang harus dilakukan adalah:
+            \n
+            Campurkan satu setengah sendok makan baking soda dengan segelas air. Setelah itu, oleskan pada seluruh tubuh menggunakan handuk yang lembut dan diamkan hingga mengering.
+            \n
+            Cara lainnya, yaitu dengan menuangkan satu gelas baking soda pada bak mandi, kemudian rendamlah tubuh Anda dengan cairan tersebut.
+            \n\n
+            2. Wortel dan Daun Ketumbar\n\n
+            Wortel dan ketumbar juga dipercaya bermanfaat untuk mengatasi cacar air. Hal tersebut dikarenakan kedua makanan tersebut kaya akan antioksidan yang berfungsi mempercepat proses penyembuhan. Cara menggunakannya, yaitu:
+            \n
+            Potong 100 gram wortel dan 60 gram daun ketumbar segar, setelah itu rebus dengan satu gelas air hingga air rebusannya tinggal setengahnya, lalu minum air rebusan tersebut.
+            \n
+            Minum ramuan tersebut minimal sekali sehari dalam sebulan. Alternatif cara lain, yaitu dengan mengonsumsi langsung wortel rebus dan daun ketumbar.
+            \n\n
+            3. Oatmeal\n\n
+            Oatmeal adalah obat alami yang terkenal untuk menghilangkan gatal pada kulit,  terutama disebabkan oleh cacar air. Ikuti langkah di bawah ini untuk menggunakannya.
+            \n
+            Gilinglah dua cangkir oatmeal hingga menjadi bubuk halus. Masukkan bubuk oatmeal tersebut ke dalam dua liter (satu setengah galon) air hangat. Lalu, rendamlah tubuh Anda selama 15 sampai 20 menit.
+            \n\n
+            4. Cuka Coklat\n\n
+            Salah satu pengobatan alami yang efektif untuk mengobati cacar air adalah cuka coklat. Cuka Coklat mampu mengurangi iritasi kulit dan membantu menyembuhkan dan mencegah lesi pada jaringan parut. Caranya, yaitu:
+            \n
+            Tambahkan satu setengah cangkir cuka coklat ke dalam bak mandi yang berisi air hangat.
+            \n
+            Setelah itu, berendamlah dalam bak mandi selama 10 sampai 15 menit.
+            \n\n
+            5. Madu\n\n
+            Madu memiliki banyak manfaat bagi kesehatan tubuh. Ternyata madu juga dapat digunakan sebagai obat alami cacar air. Hal tersebut dikarenakan madu dapat meredakan gatal dan membantu menyembuhkan bekas vesikel (gelembung air) akibat cacar air.
+            \n
+            Gunakan madu murni dan oleskan pada bagian yang gatal atau terdapat bekas vesikel. Ulangi proses tersebut sebanyak dua sampai tiga kali sehari sampai bekas vesikelnya hilang.
+            \n\n
+        </item>
+        <!--Obat Demam-->
+        <item>
+            1. Cuka Apel \n\n
+            Cuka sari apel adalah obat demam tradisional yang harganya sangat terjangkau dan juga efektif untuk meredakan demam. Obat ini dapat meredakan demam dengan cepat dikarenakan kandungan asam di dalamnya dapat berfungsi untuk mengeluarkan suhu panas dari dalam tubuh.
+            \n
+            Selain itu, obat demam tradisional ini mengandung banyak mineral yang dapat memenuhi kebutuhan mineral tubuh akibat demam.
+            \n\n
+            Cara menggunakan cuka apel sebagai penurun panas yaitu:
+            \n
+            a. Tuangkan 1 gelas cuka apel ke dalam bak mandi yang berisi air hangat. \n
+            b. Kemudian, berendamlah dalam air tersebut selama 5 sampai 10 menit. \n
+           \n\n
+            2. Bawang putih \n\n
+            Sifat hangat pada bawang putih dapat membuat tubuh lebih banyak mengeluarkan keringat sehingga menyebabkan turunnya suhu tubuh saat demam. Obat demam tradisional ini juga dapat membantu menghilangkan racun berbahaya dari tubuh dan mempercepat pemulihannya.
+            \n
+            Selain itu, bawang putih juga memiliki zat anti-jamur dan antibakteri yang dapat membantu tubuh melawan infeksi dan menangkal penyakit.
+            \n\n
+            3.Kismis \n\n
+            Kismis juga dapat digunakan sebagai obat untuk meredakan demam. Hal tersebut dikarenakan kandungan nutrisi di dalam kismis dapat membantu tubuh melawan infeksi. Kismis kaya akan fitonutrien fenolik yang memiliki sifat antibakteri dan antioksidan. Itulah sebabnya, kismis bertindak sebagai penguat tubuh saat demam.
+            \n\n
+            6. Jahe \n\n
+            Jahe ternyata dapat membantu tubuh untuk mengeluarkan suhu panas dari dalam tubuh, yang pada gilirannya dapat mengurangi demam. Selain itu, jahe merupakan agen antivirus dan antibakteri alami yang befungsi menjaga sistem kekebalan tubuh dan melawan segala jenis infeksi.
+            \n\n
+        </item>
+        <!--Obat Flu-->
+        <item>
+            1. Jahe\n\n
+            Jahe mengandung banyak antioksidan dan juga sifat antitoksin, anti-jamur dan antivirus, yang dapat memberikan bantuan cepat dari gejala pilek.
+            Untuk itu, kita bisa menaburkan sedikit garam pada potongan kecil jahe dan mengunyahnya beberapa kali dalam sehari untuk mendapatkan rasa lega.
+            \n\n
+            2. Madu\n\n
+            Madu juga menjadi satu pilihan yang bisa membantu kita untuk mengobati flu. Pasalnya, madu memiliki sifat antivirus dan antibakteri yang dapat membantu mengurangi penyakit flu yang kita derita. Kita bisa mencampurkan satu cangkir air dan dua sendok makan madu, setengah air lemon serta sedikit bubuk kayu manis. Minum campuran ini dua kali sehari untuk mendapatkan hasil yang maksimal. Selain itu, kita bisa mencampur segelas air hangat dengan dua sendok makan madu.
+            \n\n
+            4. Kunyit \n\n
+            Kunyit memiliki antioksidan kuat yang membantu dalam melawan virus flu. Kita bisa menambahkan kunyit ke dalam susu hangat atau mengonsumsinya dengan madu bisa cukup efektif mengatasi flu. Ini akan membantu menyembuhkan batuk, sakit tenggorokan, dan hidung meler
+            \n\n
+            5. Bawang Putih\n\n
+            Bawang putih memiliki sifat antiseptik dan antibakteri yang sangat baik. Caranya, kita bisa mencampur 3 - 4 siung bawang putih ke dalam secangkir air panas. Saring kemudian tambahkan gula, dan minum sup ini setidaknya dua kali sehari.
+            \n\n
+        </item>
+        <!--Sakit Tenggorokan-->
+        <item>
+
+1. Air Garam
+
+Salah satu obat alami sakit tenggorokan yang sangat mudah dibuat adalah air garam. Anda cukup mencampurkan satu sendok teh garam ke dalam segelas air hangat, dan aduk hingga tercampur secara merata. Berkumurlah dengan posisi kepala menengadah lalu muntahkan.
+
+Sebuah studi menemukan bahwa berkumur dengan air garam bisa mencegah infeksi saluran pernapasan bagian atas dan demam. Berkumur dengan air garam juga bisa membantu membersihkan tenggorokan dari dahak. Namun ingat, jangan memakai terlalu banyak garam dan jangan ditelan.
+
+2. Madu
+
+Baik dicampur dengan teh atau diminum langsung, madu telah lama dipercaya mampu meredakan sakit tenggorokan. Sebuah studi yang dilakukan pada anak-anak yang terkena infeksi saluran pernapasan bagian atas (ISPA), mengonfirmasi efektivitas madu dalam meredakan batuk. Selain itu, studi lain juga mendukung klaim bahwa madu merupakan penyembuh luka yang efektif. Dengan khasiatnya ini, madu dipercaya bisa mempercepat pemulihan sakit tenggorokan.
+
+3. Bawang putih
+
+Salah satu bahan alami yang bisa digunakan untuk membantu meredakan sakit tenggorokan adalah bawang putih. Kemampuannya ini dimiliki karena mengandung sifat antibakteri. Hanya saja, cara terbaik untuk mendapatkan manfaat bawang putih sebagai obat alami sakit tenggorokan adalah dengan mengunyahnya.
+
+Saat hancur, bawang putih akan melepaskan senyawa yang memiliki sifat antibakteri, antijamur, sekaligus antivirus. Nama senyawa tersebut adalah allicin. Selain dikunyah sebanyak satu siung, cara lain yang bisa digunakan adalah dengan mengisapnya selama 15 menit.
+
+Jika tidak sanggup untuk memakannya secara mentah, cobalah untuk dicampurkan dengan bahan lain, seperti madu, minyak zaitun, atau dibuat jus. Namun, allicin akan lebih efektif jika dikunyah secara mentah.
+
+        </item>
+        <!--Pilek-->
+        <item>
+            1. Jahe
+
+jahe untuk berhenti merokok
+
+Jahe membuat otot saluran pernapasan agar lebih rileks dan merangsang sistem kekebalan tubuh lebih aktif. Maka itu, tidak heran kalau jahe sering dijadikan obat pilek alami. Selain itu, jahe juga menangkal rasa mual dan menghangatkan tubuh yang sedang tidak enak badan.
+
+
+Anda bisa minum air jahe atau mencampurnya dengan teh supaya lebih enak saat dinikmati. Caranya cukup mudah, rebus jahe selama 20 menit, kemudian ambil air rebusan jahe untuk membuat teh hangat.
+
+2. Madu
+
+minum madu
+
+Madu memiliki berbagai sifat antimikroba (bakteri ataupun virus). Dengan sifatnya ini, madu secara alamiah dapat membantu tubuh melawan kuman penyakit yang membuat Anda pilek.
+
+Bukan hanya membantu mengatasi pilek, madu ternyata juga bisa meredakan gejala batuk yang sering dialami ketika terserang pilek.
+
+Anda bisa melarutkan madu dalam air hangat dalam gelas untuk diminum setiap pagi dan malam. Segelas larutan madu ini sekaligus juga mencegah Anda dehidrasi. Akan tetapi madu sebaiknya tidak diberikan pada anak yang usianya kurang dari 1 tahun.
+
+        </item>
+        <!--Pusing-->
+        <item>
+            1. Jahe
+Jahe merupakan obat pusing tradisional yang sudah dikenal sejak lama. Bahan herbal dengan rasa yang khas dan menghangatkan ini akan memperlancar aliran darah ke otak dan bagian tubuh lainnya, yang akan mengurangi intensitas pusing dan mual.
+
+Kunyah sepotong kecil jahe segar yang sudah dibersihkan atau bisa digantikan dengan menghisap permen jahe untuk mengatasi pusing dan mual, cara ini sangat efektif jika pusing terjadi akibat mabuk perjalanan.
+Minumlah teh jahe beberapa kali sehari untuk membantu mencegah pusing timbul lagi.
+Untuk kondisi yang lebih parah, cobalah untuk mengonsumsi suplemen jahe, namun konsultasikan dengan dokter untuk dosis yang sesuai dengan Anda.
+2. Lemon
+Obat pusing tradisional yang ampuh lainnya adalah lemon. Buah kaya vitamin C dapat meningkatkan sistem kekebalan tubuh dan membantu melawan penyakit. Selain itu, beberapa nutrisi dalam lemon dapat dijadikan sumber energi alami dengan cara menghidrasi tubuh agar berenergi dan segar.
+
+Peras lemon, saring dan campurkan sari buahnya ke dalam segelas air hangat. Tambahkan 2 sendok teh, minumlah selagi hangat untuk meringankan gejala pusing yang muncul.
+Pilihan lainnya dengan menambahkan 1 sendok makan jus lemon, sejumput bubuk lada hitam dan garam ke dalam segelas air. Minumlah 3 kali sehari atau sesuai kebutuhan hingga pusing reda.
+3. Buah Amla/ Gooseberry India
+Buah yang banyak tumbuh di india ini merupakan buah yang sering dijadikan obat pusing dalam pengobatan ayurvedic india. Buah amla yang kaya akan vitamin A dan C dapat meningkatkan kekebalan tubuh, memperbaiki sirkulasi darah dan membantu mengobati dan mencegah pusing. Cara mengolah buah amal menjadi obat pusing tradisional dengan cara seperti berikut:
+
+Giling 2 buah amal (hilangkan bijinya) hingga membentuk pasta.
+Campurkan dua sendok teh biji ketumbar dan secangkir air.
+Biarkan campuran ini semalaman.
+Esok harinya, saring dan ambil sari dari campuran buah amla tadi.
+Minumlah sari buah amla setiap hari dalam beberapa hari hingga pusing benar-benar hilang.
+4. Madu
+Sifat alami madu yang manis menandakan kandungan gula alaminya yang tinggi, sehingga dapat meningkatkan energi dan mencegah pusing. Apalagi madu juga baik untuk mencegah gula darah rendah, salah satu penyebab munculnya pusing.
+
+Campurkan masing-masing 2 sdt madu dan sari cuka apel kedalam segelas air hangat ataupun dingin. Minumlah sirup madu dan cuka apel ini sehari dua kali.
+Atau bisa juga menyampurkan 1 sdm madu dan jus lemon secukupnya ke dalam segelas air hangat. Minumlah campuran bahan ini untuk segera dapat meredakan pusing.
+Alternatif lainnya adalah dengan mencampurkan 1 sdt madu dan bubuk kayu manis. Konsumsi obat pusing tradisional ini setiap pagi selama seminggu atau hingga pusing reda.
+
+        </item>
+        <!--Mual-->
+        <item>1. Air putih
+Air putih adalah kandungan penting agar pencernaan Bunda lancar dan tubuh tetap terhidrasi.
+
+
+2. Jahe
+Jahe adalah obat mual efektif karena akan mengurangi tingkat keasaman di perut. Aromanya yang segar juga akan sangat membantu mengurangi mual dan muntah.
+
+Jika aroma jahe tidak ampuh, maka Bunda bisa menjadikannya bagian dari teh, mengunyah sedikit jahe, atau cukup merebus jahe dengan air, lalu Bunda minum selagi panas. Atau bisa juga Bunda jadikan kue jahe.
+
+Ilustrasi pereda mual dan muntah saat hamilIlustrasi pereda mual dan muntah saat hamil Foto: iStock
+3. Peppermint
+Minyak dan aroma peppermint mengandung methanol yang memproduksi anestetik untuk mencegah mual dan muntah selama kehamilan. Bunda bisa menggunakan peppermint dengan mengasup teh peppermint, atau sekadar mengunyah daunnya. Bisa juga dengan meneteskan minyak peppermint ke atas sapu tangan dan hirup dalam-dalam ketika mual datang.
+
+4. Lemon
+Hirup dalam-dalam aroma lemon segar saat Bunda merasa mual. Bisa juga Bunda masukkan sepotong lemon dalam teh atau ke dalam air putih. Teh lemon akan sangat terasa membantu selepas Bunda muntah.
+
+Ilustrasi pereda mual dan muntahIlustrasi pereda mual dan muntah Foto: iStock
+5. Minyak kamomil
+Cobalah minta dipijat dengan menggunakan minyak kamomil. Aromanya yang menyegarkan, ditambah dengan tubuh Bunda yang dipijat akan terasa sangat meringankan mual dan muntah.
+</item>
+        <!--Diare-->
+        <item>
+            Jahe
+Tumbuhan jamu ini sudah lazim digunakan untuk mengatasi bebagai penyakit, termasuk untuk mengobati diare. Jahe digunakan dalam pengobatan keracunan makanan dan juga dapat membantu menyingkirkan kram dan nyeri perut.
+
+Dalam rangka mengobati diare, Anda dapat menggunakan jahe ini dengan cara sebagai berikut:
+
+Sediakan sepotong kecil jahe bersih kemudian parut. Lalu tambahkan satu sendok teh madu. Kemudian bisa langsung dikonsumsi. Hindari minum air segera setelah memakannya.
+Anda juga bisa minum teh jahe dua sampai tiga kali sehari untuk menyembuhkan diare. Siapkan beberapa potong jahe ukuran sedang, iris-iris dengan ukuran sesuai selera kemudian rebuslah dengan air secukupnya sampai mendidih, saring, tunggu hingga hangat kuku lalu tambahkan madu sebelum diminum. Jika Anda tidak memiliki jahe segar, maka dapat menggunakan bubuk jahe yang mungkin ada di dapur Anda.
+Apple Cider Vinegar (Cuka Apel)
+Obat diare alami lainnya yang mudah didapat yaitu sari cuka apel. Di dalam cuka apel terkandung zat yanga efektif melawan bakteri penyebab diare. Gunakan dengan cara menambahkan satu sendok teh cuka apel ke dalam segelas air. Minum larutan sekali atau dua kali sehari sampai diare reda. Manfaat cuka apel lainnya.
+
+Pisang
+Ketika seseorang pasien mengalami diare dokter selalu menganjurkan untuk makan pisang matang, tujuannya agar diare cepat sembuh. Kok bisa? karena pisang mengandung pektin tinggi.
+
+Pektin adalah serat larut dalam air yang membantu memadatkan feses sehingga bisa mengurangi diare. Selain itu, pisang juga kaya akan kalium, elektrolit yang mendukung sejumlah fungsi penting dalam tubuh, termasuk sistem pencernaan.
+
+Minyak Habbatussauda
+Jinten hitam atau Habbatussauda banyak digunakan untuk mengobati berbagai masalah kesehatan seperti gas, kolik, asma, sembelit dan diare. Untuk mengobati diare, kita gunakan minyak Habbatussauda dengan cara sebagai berikut:
+
+Campur satu sendok teh minyak Habbatussauda dalam secangkir yogurt.
+Makan campuran ini dua kali sehari sampai gejala diare benar-benar hilang.
+
+        </item>
+        <!--Sembelit-->
+        <item>
+            2. Sari cuka apel
+
+Seperti yang telah disebutkan di atas, apel merupakan buah yang baik untuk mengatasi sulit BAB. Nah, kali ini obat pencahar alaminya sedikit dimodifikasi, yaitu diolah menjadi sari apel mentah.
+
+Sari cuka apel merupakan salah satu obat pencahar alami yang membantu ketidakteraturan usus dalam membuang kotoran di perut. Bahan-bahan bermanfaat dalam sari cuka apel antara lain, kalium, pektin, asam malat, asam asetat dan kalsium.
+
+3. Lidah buaya
+
+Lidah buaya adalah salah satu obat pencahar alami tertua yang paling manjur pada masanya. Sebagian besar kandungan daun lidah buaya diisi dengan gel, yang sekitar 99% air dan 1%-nya berisi lebih dari setidaknya 75 nutrisi baik, antara lain 20 mineral, 12 vitamin, 18 asam amino, 200 senyawa aktif berisi fitonutrien, dan enzim berisi air.
+
+Bagi para penderita sembelit, Anda bisa mengonsumsi ekstrak gel lidah buaya yang dihaluskan atau dibuat jus. Minum jus lidah buaya setiap hari untuk meredakan sembelit.
+
+4. Rempah-rempah
+
+Obat pencahar alami tidak harus buah atau sayur. Anda juga bisa mendapatkan manfaat pencahar dari rempah-rempah yang terkandung pada masakan yang Anda makan. Rempah-rempah yang baik bagi pencernaan antara lain, jahe, cabai rawit, dan kunyit.
+
+Rempah-rempah tersebut memiliki fungsi sebagai agen pencahar yang merangsang saluran pencernaan agar bekerja optimal. Untuk jahe, Anda bisa membuat teh jahe yang baik untuk pencernaan. Rempah-rempah di atas membantu tubuh untuk mendetoksisfikasi hati dengan mengeluarkan enzim karsinogen beracun.
+
+        </item>
+        <!--Sariawan-->
+        <item>
+            1. Madu
+Madu adalah salah satu pilihan obat sariawan alami yang cukup ampuh. Caranya cukup dengan mengoleskan madu di atas sariawan tersebut.
+Dilansir dari Prevention, madu memiliki sifat antiradang dan antibakteri yang bisa membantu mengurangi rasa perih sekaligus mempercepat proses pemulihan sariawan. Kesimpulan tersebut didapat dari penelitian asal Saudi Arabia terhadap 94 partisipan yang rutin mengoleskan madu pada sariawan di mulut mereka selama empat hari berturut-turut.
+2. Air garam
+Berkumur dengan air garam selama kurang lebih 1-2 menit menit dapat meredakan sariawan tanpa obat. Garam memiliki sifat antiradang dan antibakteri untuk mencegah sariawan Anda berkembang makin parah. Garam juga membantu mempercepat proses penyembuhan sariawan. Selain sebagai obat sariawan alami, garam bermanfaat untuk mencegah infeksi di mulut.
+Untuk membuat air larutan garam, cukup tambahkan satu setengah sendok teh garam ke dalam satu gelas air hangat. Aduk rata dan kumur-kumur air di dalam mulut. Jangan ditelan. Segera buang setelah selesai dan bilas dengan minum air putih. Ulangi berkumur air garam untuk beberapa kali dalam sehari sampai sariawan terlihat mengempis.
+3. Kelapa
+Kelapa diyakini mampu menjadi obat sariawan di lidah atau di bibir. Kelapa bekerja mencegah peradangan luka semakin memburuk sekaligus mengurangi rasa sakit yang timbul akibat sariawan. Kelapa juga diyakini dapat membantu menyejukkan suhu tubuh, yang pada beberapa kasus menjadi penyebab timbulnya sariawan.
+Cara menggunakan kelapa sebagai obat sariawan alami sebenarnya cukup mudah. Campurkan madu dengan susu kelapa atau minyak kelapa, lalu oleskan ramuan tersebut di luka sariawan Anda. Ulangi sebanyak 3-4 kali dalam sehari, sampai sariawan mulai tampak mengempis.
+4. Kantong teh bekas
+Mengompreskan kantong teh bekas juga bisa Anda jadikan obat sariawan di lidah dan bibir. Kantong teh bersifat basa dapat menetralisir lingkungan mulut yang asam agar tidak memperburuk rasa sakit akibat sariawan tersebut.
+Daun teh mampu melawan infeksi dan peradangan yang menyebabkan sariawan. Terlebih, sisa teh yang diseduh dapat membantu meningkatkan kesehatan gusi dan mengurangi risiko penyakit gusi, menurut American Academy of Periodontology.
+Caranya cukup dengan menempelkan kantong teh celup bekas pakai selama kira-kira lima menit pada sariawan Anda.
+5. Lidah buaya
+Satu sariawan di lidah bisa membuat seluruh mulut Anda terasa tak nyaman dan panas. Untuk itu, siapkan daun lidah buaya asli dan cuci sampai bersih sebagai obat sariawan di lidah. Kemudian, oleskan getah atau daging lidah buaya secukupnya langsung pada sariawan Anda. Biarkan selama beberapa jam dan ulangi dua sampai tiga kali sehari. Lidah buaya ampuh untuk menghilangkan sariawan di lidah karena fungsinya sebagai antiperadangan dan pereda nyeri yang alami
+
+        </item>
+        <!--Demam Bberdarah-->
+        <item>
+            1. Jus jambu biji
+Buah jambu biji memiliki trombinol yang mampu merangsang trombopoietin lebih aktif, sehingga dapat memicu pembentukan keping darah baru. Lalu, karena pasien demam berdarah sebaiknya makan makanan atau minuman yang mudah dicerna, sebaiknya proses dulu jambu biji jadi jus yang lembut. Kandungan airnya juga baik untuk mencegah dehidrasi.
+Jambu biji kaya akan quercetin, yaitu senyawa kimia alami yang bisa ditemukan dalam berbagai jenis buah dan sayur. Quercetin dapat menekan pertumbuhan virus dengue dalam tubuh pasien DBD. Maka, jangan lewatkan manfaat jambu biji ini untuk melawan infeksi virus secara alami.
+2. Angkak
+Sudah banyak berbagai penelitian yang dilakukan untuk membuktikan mengenai angkak sebagai obat demam berdarah alami. Perlu diketahui, angkak adalah salah satu jenis beras merah dari Tiongkok yang difermentasi dengan ragi Monascus purpureus. Sebuah penelitian dari IPB tahun 2012 menunjukkan bahwa pemberian kapsul angkak dapat meningkatkan trombosit pada tikus putih yang dibuat trombositopenia (kadar trombosit dalam darah yang rendah).
+Seperti yang kita tahu bahwa pasien DBD mempunyai kadar trombosit yang rendah yang membuat penyakitnya semakin parah. Dengan pemberian angkak yang dapat membantu peningkatan kadar trombosit, maka pasien DBD kemungkinan lebih cepat sembuh.
+3. Echinacea
+Echinacea merupakan salah satu jenis tanaman herbal yang umumnya digunakan untuk mengobati demam dan flu pada masyarakat Amerika bagian Utara. Menurut Pakistan Journal of Clinical and Biomedical Research, echinacea dapat memicu produksi protein dan interferon tambahan, sebagai reaksi terhadap serangan bakteri dan virus. Maka dari itu, echinacea mampu meningkatkan sistem kekebalan tubuh dengan mengoptimalkan kemampuan sel darah putih dalam menangani infeksi virus, termasuk virus dengue.
+4. Daun pepaya
+Dua peneliti dari India telah meninjau laporan-laporan penelitian yang telah dilakukan dan mendapatkan bahwa ekstrak daun pepaya dapat membantu meningkatkan angka trombosit dalam darah seseorang yang mengalami demam berdarah dengue. Ini diduga karena daun pepaya dapat membantu menstabilkan dinding sel keping darah sehingga tidak mudah dihancurkan oleh virus dengue.
+Anda bisa menggunakan 50 gram daun pepaya sebagai obat demam berdarah alami dengan cara mencucinya dahulu menggunakan air hingga bersih. Setelahnya, tumbuk daun hingga halus, namun jangan sampai menjadi bubuk. Lalu, Anda bisa mencampurkan air dan peras air tumbukan daun pepaya. Minum air daun pepaya sebanyak 3 kali dalam sehari.
+
+        </item>
+        <!--Bibir Kering-->
+        <item>
+            1. Madu
+
+Madu baik digunakan untuk bibir pecah-pecah (dok. unsplash)
+Madu baik digunakan untuk bibir pecah-pecah (dok. unsplash)
+Khasiat madu sebagai bahan untuk perawatan kecantikan memang sudah terkenal sejak zaman dahulu, termasuk untuk mengatasi masalah bibir kering dan pecah-pecah. Kita cukup mengoleskan madu pada bibir yang kering dan mendiamkannya selama beberapa menit. Madu dapat menutrisi bibir, melembutkan sekaligus melembabkanya. Selain itu kandungan zat antibakteri didalamnya akan melindungi bibir dan mencegah infeksi bakteri.
+
+2. Lidah Buaya
+
+Tak hanya bagus untuk perawatan rambut, gel alami dari lidah buaya adalah bahan alami yang efektif untuk mengatasi bibir yang kering. Lidah buaya punya khasiat untuk menyembuhkan iritasi, seperti yang terjadi pada bibir yang pecah-pecah. Mengaplikasikan gel lidah buaya pada bibir akan memberikan rasa dingin, juga membantu melembabkan bibir dan mencegah bibir pecah bertambah parah.
+
+3. Mentimun
+
+Buah renyah dengan kandungan air yang cukup banyak ini, termasuk yang banyak dimanfaatkan untuk menyegarkan kulit. Buah mentimun juga akan memberikan rasa segar pada bibir dan mengidrasinya agar tidak kering lagi. Cukup iris tipis buah mentimun, kemudian tempelkan potongan dan menggosokkannya di bibir selama bebera menit. Selanjutnya tinggal dibilas bibir dengan air bersih.
+
+4. Mentega
+
+Mentega baik untuk bibir kering (dok. womenhealthsmag)
+Mentega baik untuk bibir kering (dok. womenhealthsmag)
+Kandungan minyak alami pada mentega akan melembabkan bibir kita layaknya lip balm. Tekstur mentega yang lembut seperti pasta akan memudahkan kita mengaplikasikannya pada bibir yang kering. Beberapa vitamin seperti vitamin A, E dan selenium dalam mentega yang berfungsi sebagai anti oksidan akan membantu menutrisi bibir kita. Jika hendak menggunakan mentega sebagai pelembab bibir, sebaiknya diaplikasikan pada malam hari sebelum tidur agar mentega dapat terserap dengan baik.
+
+5. Minyak Kelapa
+
+Saat cuaca dingin, minyak kelapa bisa jadi bahan alami yang efektif untuk mengembalikan kelembaban bibir dan mencegahnya agar tidak pecah-pecah. Kandungan asam laurat dalam minyak kelapa berfungsi sebagai pelembap sekaligus efektif mengurangi peradangan dan melawan bakteri. Cukup oleskan minyak kelapa pada bibir. Sebaiknya lakukan pada malam hari ya Teens, agar bibir dapat menyerap lemak alami dan kandungan minyak kelapa dengan optimal.
+
+        </item>
+        <!--Panu-->
+        <item>
+            1. Lidah buaya
+
+Obat panu alami pertama yang bisa Anda coba adalah lidah buaya atau aloe vera. Tanaman yang satu ini memang terkenal memiliki banyak manfaat untuk kesehatan dan juga kecantikan. Berbagai senyawa aktif mulai dari vitamin, asam amino, asam salisilat, dan berbagai enzim yang terkandung dalam lidah buaya mampu untuk menjinakkan jamur penyebab panu.
+
+Cara mengaplikasikannya juga sangat mudah, Anda hanya perlu mengoleskan gel lidah buaya sebagai masker di bagian tubuh yang terkena panu. Diamkan hingga gel mengering, kemudian bilas dengan air bersih.
+
+2. Bawang putih
+
+Obat panu alami selanjutnya yang bisa Anda coba adalah bawang putih. Kandungan antijamur dalam bawang putih bisa menghentikan pertumbuhan jamur penyebab panu.
+
+Cara menggunakan obat panu paling ampuh ini adalah dengan menumbuk dua hingga tiga siung bawang putih hingga halus kemudian mengoleskannya pada kulit panuan. Diamkan selama kurang lebih 20 menit hingga kandungan bawang meresap ke kulit, lalu bilas dengan air bersih. Lakukan setiap hari hingga panu menghilang dari kulit.
+
+BACA JUGA : LIDAH BUAYA, OBAT ALAMI MENGATASI PANU
+
+3. Cuka apel
+
+Obat panu paling ampuh selanjutnya adalah dengan menggunakan cuka apel. Bahan yang satu ini juga mudah ditemui dan memiliki banyak manfaat untuk kesehatan kulit. Dalam cuka apel terdapat kandungan antimikroba yang bisa membantu meredakan panu di kulit. Oleskan cuka apel sebagai pengganti salep sebanyak tiga kali sehari.
+
+4. Minyak kelapa
+
+Kandungan asam amino dalam minyak kelapa juga bisa membantu untuk mencegah pertumbuhan jamur penyebab panu di kulit. Cara pengaplikasiannya sama seperti cuka apel, yaitu dengan cara dioleskan ke bagian panu sebanyak tiga kali sehari. Selain mampu menghilangkan panu, obat panu alami paling ampuh ini juga bermanfaat untuk melembabkan kulit dan mengangkat sel kulit mati.
+
+5. Lengkuas
+
+Banyak sekali senyawa dalam obat panu tradisional ini, yang memiliki manfaat bagi kesehatan tubuh. Di antaranya terdapat juga flavonoid, amilum, dan kuersetin yang mampu untuk membantu membasmi panu.
+
+Cara menghilangkan panu dengan lengkuas adalah dengan menghaluskan 2 ruas jari lengkuas yang dicampurkan dengan sedikit garam, lalu oleskan pada panu. Diamkan selama 30 menit atau hingga mengering sebelum dibilas dengan air hangat.
+
+
+        </item>
     </string-array>
 
     <!--END OF DATA PENYAKIT-->
