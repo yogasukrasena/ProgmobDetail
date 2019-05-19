@@ -60,7 +60,6 @@ public class RecyclerViewAdapterDua extends RecyclerView.Adapter<RecyclerViewAda
         holder.CardViewparent.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(mContext, mPenyakitName.get(position), Toast.LENGTH_SHORT).show();
 
                 Intent intent = new Intent(mContext, DetailPenyakitActivity.class);
                 intent.putExtra("Image_name", mPenyakitName.get(position));

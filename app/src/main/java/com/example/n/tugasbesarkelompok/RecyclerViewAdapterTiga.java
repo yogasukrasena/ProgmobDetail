@@ -63,7 +63,6 @@ public class RecyclerViewAdapterTiga extends RecyclerView.Adapter<RecyclerViewAd
         holder.CardViewparent.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(mContext, mBahanName.get(position), Toast.LENGTH_SHORT).show();
 
                 Intent intent = new Intent(mContext, DetailObatActivity.class);
                 intent.putExtra("Image_name", mBahanName.get(position));

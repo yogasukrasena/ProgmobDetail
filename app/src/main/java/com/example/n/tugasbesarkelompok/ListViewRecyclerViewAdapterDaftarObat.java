@@ -11,7 +11,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
@@ -59,7 +58,6 @@ public class ListViewRecyclerViewAdapterDaftarObat extends RecyclerView.Adapter<
             @Override
             public void onClick(View v) {
                 Log.d(TAG, "onClick: " + mName.get(position));
-                Toast.makeText(mContext, "Clicked : " + mName.get(position), Toast.LENGTH_SHORT).show();
 
                 Intent intent = new Intent(mContext, DetailPenyakitActivity.class);
                 intent.putExtra("Image_name", mName.get(position));

@@ -65,7 +65,6 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         holder.CardViewparent.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(mContext, mTanamanName.get(position), Toast.LENGTH_SHORT).show();
 
                 Intent intent = new Intent(mContext, DetailObatActivity.class);
                 intent.putExtra("Image_name", mTanamanName.get(position));

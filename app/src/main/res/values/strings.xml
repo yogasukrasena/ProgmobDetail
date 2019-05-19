@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Tugas Besar Kelompok</string>
+    <string name="app_name">Apotek Hidup</string>
     <string name="top_daftar_tanaman">Top Daftar Tanaman</string>
     <string name="top_daftar_obat">Top Daftar Obat</string>
     <string name="top_bahan_alami">Top Bahan Alami</string>
@@ -895,6 +895,7 @@
             Banyak sekali senyawa dalam obat panu tradisional ini, yang memiliki manfaat bagi kesehatan tubuh. Di antaranya terdapat juga flavonoid, amilum, dan kuersetin yang mampu untuk membantu membasmi panu.\n\n
 
         </item>
+
     </string-array>
 
 
