@@ -25,13 +25,15 @@ public class RecyclerViewAdapterDua extends RecyclerView.Adapter<RecyclerViewAda
     private ArrayList<String> mPenyakitName = new ArrayList<>();
     private ArrayList<String> mPenyakitPic = new ArrayList<>();
     private ArrayList<String> mPenyakitDesc = new ArrayList<>();
+    private ArrayList<String> mObatPenyakit = new ArrayList<>();
     private Context mContext;
 
     public RecyclerViewAdapterDua(Context mContext, ArrayList<String> mPenyakitName,
-                                  ArrayList<String> mPenyakitPic, ArrayList<String> mPenyakitDesc, int count) {
+                                  ArrayList<String> mPenyakitPic, ArrayList<String> mPenyakitDesc, ArrayList<String> mObatPenyakit, int count) {
         this.mPenyakitName = mPenyakitName;
         this.mPenyakitPic = mPenyakitPic;
         this.mPenyakitDesc = mPenyakitDesc;
+        this.mObatPenyakit = mObatPenyakit;
         this.mContext = mContext;
         this.count = count;
     }
@@ -64,6 +66,7 @@ public class RecyclerViewAdapterDua extends RecyclerView.Adapter<RecyclerViewAda
                 intent.putExtra("Image_name", mPenyakitName.get(position));
                 intent.putExtra("Image_pic", mPenyakitPic.get(position));
                 intent.putExtra("Image_desc", mPenyakitDesc.get(position));
+                intent.putExtra("image_obat_penyakit",mObatPenyakit.get(position));
                 mContext.startActivities(new Intent[]{intent});
             }
         });

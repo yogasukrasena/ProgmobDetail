@@ -23,14 +23,14 @@ public class DetailBahanActivity extends AppCompatActivity {
             String imagePic = getIntent().getStringExtra("Image_pic");
             String imageName = getIntent().getStringExtra("Image_name");
             String imageDesc = getIntent().getStringExtra("Image_desc");
-            String imageLat = getIntent().getStringExtra("Image_lat");
+//            String imageLat = getIntent().getStringExtra("Image_lat");
             String imageKhas = getIntent().getStringExtra("Image_khas");
 
-            setImage(imagePic, imageName, imageDesc, imageLat, imageKhas);
+            setImage(imagePic, imageName, imageDesc, imageKhas);
         }
     }
 
-    private void setImage(String imagePic, String imageName, String imageDesc, String imageLat, String imageKhas){
+    private void setImage(String imagePic, String imageName, String imageDesc, String imageKhas){
 
         TextView mTanamanNama = findViewById(R.id.detail_judul);
         mTanamanNama.setText(imageName);
@@ -44,8 +44,8 @@ public class DetailBahanActivity extends AppCompatActivity {
         TextView mTanamanDesc = findViewById(R.id.detail_deskripsi);
         mTanamanDesc.setText(imageDesc);
 
-        TextView mTanamanLat = findViewById(R.id.detail_nama_latin);
-        mTanamanLat.setText(imageLat);
+//        TextView mTanamanLat = findViewById(R.id.detail_nama_latin);
+//        mTanamanLat.setText(imageLat);
 
         TextView mTanamanKhasiat = findViewById(R.id.khasiat_satu);
         mTanamanKhasiat.setText(imageKhas);

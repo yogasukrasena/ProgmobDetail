@@ -24,7 +24,7 @@ public class ListViewRecyclerViewAdapterDaftarBahanAlami extends RecyclerView.Ad
     private Context mContext;
     private ArrayList<String> mImages;
     private ArrayList<String> mName;
-    private ArrayList<String> mLatinName;
+//    private ArrayList<String> mLatinName;
     private ArrayList<String> mDesc;
     private ArrayList<String> mKhasiat;
 
@@ -34,7 +34,7 @@ public class ListViewRecyclerViewAdapterDaftarBahanAlami extends RecyclerView.Ad
         this.mContext = mContext;
         this.mImages = mImages;
         this.mName = mName;
-        this.mLatinName = mLatinName;
+//        this.mLatinName = mLatinName;
         this.mDesc = mDesc;
         this.mKhasiat = mKhasiat;
     }
@@ -60,7 +60,7 @@ public class ListViewRecyclerViewAdapterDaftarBahanAlami extends RecyclerView.Ad
 
         holder.name.setText(mName.get(position));
 
-        holder.latinName.setText(mLatinName.get(position));
+//        holder.latinName.setText(mLatinName.get(position));
 
         holder.cardViewParent.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -72,7 +72,7 @@ public class ListViewRecyclerViewAdapterDaftarBahanAlami extends RecyclerView.Ad
                 intent.putExtra("Image_name", mName.get(position));
                 intent.putExtra("Image_pic", mImages.get(position));
                 intent.putExtra("Image_desc", mDesc.get(position));
-                intent.putExtra("Image_lat", mLatinName.get(position));
+//                intent.putExtra("Image_lat", mLatinName.get(position));
                 intent.putExtra("Image_khas", mKhasiat.get(position));
                 mContext.startActivities(new Intent[]{intent});
 
@@ -97,7 +97,7 @@ public class ListViewRecyclerViewAdapterDaftarBahanAlami extends RecyclerView.Ad
 
             image = itemView.findViewById(R.id.pic_list_daftar_bahan_alami);
             name = itemView.findViewById(R.id.judul_list_daftar_bahan_alami);
-            latinName = itemView.findViewById(R.id.nama_latin_daftar_bahan_alami);
+//            latinName = itemView.findViewById(R.id.nama_latin_daftar_bahan_alami);
             cardViewParent = itemView.findViewById(R.id.card_view_list_daftar_bahan_alami_parent);
 
         }

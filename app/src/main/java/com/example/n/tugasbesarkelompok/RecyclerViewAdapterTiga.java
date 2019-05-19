@@ -25,17 +25,17 @@ public class RecyclerViewAdapterTiga extends RecyclerView.Adapter<RecyclerViewAd
     private ArrayList<String> mBahanName = new ArrayList<>();
     private ArrayList<String> mBahanPic = new ArrayList<>();
     private ArrayList<String> mBahanDesc = new ArrayList<>();
-    private ArrayList<String> mBahanLat = new ArrayList<>();
+//    private ArrayList<String> mBahanLat = new ArrayList<>();
     private ArrayList<String> mBahanKhasiat = new ArrayList<>();
     private Context mContext;
 
     public RecyclerViewAdapterTiga(Context mContext, ArrayList<String> mBahanName,
                                    ArrayList<String> mBahanPic, ArrayList<String> mBahanDesc,
-                                   ArrayList<String> mBahanKhasiat, ArrayList<String> mTanamanLat, int count) {
+                                   ArrayList<String> mBahanKhasiat, int count) {
         this.mBahanName = mBahanName;
         this.mBahanPic = mBahanPic;
         this.mBahanDesc = mBahanDesc;
-        this.mBahanLat = mTanamanLat;
+//        this.mBahanLat = mTanamanLat;
         this.mBahanKhasiat = mBahanKhasiat;
         this.mContext = mContext;
         this.count = count;
@@ -69,7 +69,7 @@ public class RecyclerViewAdapterTiga extends RecyclerView.Adapter<RecyclerViewAd
                 intent.putExtra("Image_name", mBahanName.get(position));
                 intent.putExtra("Image_pic", mBahanPic.get(position));
                 intent.putExtra("Image_desc", mBahanDesc.get(position));
-                intent.putExtra("Image_lat", mBahanLat.get(position));
+//                intent.putExtra("Image_lat", mBahanLat.get(position));
                 intent.putExtra("Image_khas", mBahanKhasiat.get(position));
                 mContext.startActivities(new Intent[]{intent});
             }

@@ -14,6 +14,7 @@ public class ListViewCategory extends AppCompatActivity {
     private ArrayList<String> mImage = new ArrayList<>();
     private ArrayList<String> mName = new ArrayList<>();
     private ArrayList<String> mLatinName = new ArrayList<>();
+    private ArrayList<String> mObatPenyakit = new ArrayList<>();
     private ArrayList<String> mDesc = new ArrayList<>();
     private ArrayList<String> mKhas = new ArrayList<>();
 
@@ -51,7 +52,7 @@ public class ListViewCategory extends AppCompatActivity {
 
         mName = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.nama_bahan_alami)));
         mImage = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.foto_bahan_alami)));
-        mLatinName = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.latin_bahan_alami)));
+//        mLatinName = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.latin_bahan_alami)));
         mDesc = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.desc_bahan_alami)));
         mKhas = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.khasiat_bahan_alami)));
 
@@ -69,9 +70,10 @@ public class ListViewCategory extends AppCompatActivity {
         mImage = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.foto_penyakit)));
         mName = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.nama_penyakit)));
         mDesc = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.desc_penyakit)));
+        mObatPenyakit = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.obat_alami_penyakit)));
 
 
-        ListViewRecyclerViewAdapterDaftarObat adapter = new ListViewRecyclerViewAdapterDaftarObat(this, mImage, mName, mDesc );
+        ListViewRecyclerViewAdapterDaftarObat adapter = new ListViewRecyclerViewAdapterDaftarObat(this, mImage, mName, mDesc, mObatPenyakit );
         LinearLayoutManager layoutManager = new LinearLayoutManager(this, LinearLayoutManager.VERTICAL,false);
         RecyclerView recyclerView = findViewById(R.id.list_category_recycler_view);
 

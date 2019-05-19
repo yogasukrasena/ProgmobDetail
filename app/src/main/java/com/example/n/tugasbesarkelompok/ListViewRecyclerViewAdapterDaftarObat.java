@@ -26,12 +26,14 @@ public class ListViewRecyclerViewAdapterDaftarObat extends RecyclerView.Adapter<
     private ArrayList<String> mImages;
     private ArrayList<String> mName;
     private ArrayList<String> mDesc;
+    private ArrayList<String> mObatPenyakit;
 
-    public ListViewRecyclerViewAdapterDaftarObat(Context mContext, ArrayList<String> mImages, ArrayList<String> mName, ArrayList<String> mDesc) {
+    public ListViewRecyclerViewAdapterDaftarObat(Context mContext, ArrayList<String> mImages, ArrayList<String> mName, ArrayList<String> mDesc,ArrayList<String> mObatPenyakit) {
         this.mContext = mContext;
         this.mImages = mImages;
         this.mName = mName;
         this.mDesc = mDesc;
+        this.mObatPenyakit = mObatPenyakit;
     }
 
     @NonNull
@@ -63,6 +65,7 @@ public class ListViewRecyclerViewAdapterDaftarObat extends RecyclerView.Adapter<
                 intent.putExtra("Image_name", mName.get(position));
                 intent.putExtra("Image_pic", mImages.get(position));
                 intent.putExtra("Image_desc", mDesc.get(position));
+                intent.putExtra("image_obat_penyakit", mObatPenyakit.get(position));
                 mContext.startActivities(new Intent[]{intent});
 
             }

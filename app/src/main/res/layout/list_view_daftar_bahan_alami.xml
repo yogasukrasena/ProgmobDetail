@@ -14,7 +14,9 @@
             android:layout_height="100dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="8dp">
+            android:layout_marginTop="8dp"
+            app:cardCornerRadius="10dp"
+            app:cardElevation="10dp">
 
             <android.support.constraint.ConstraintLayout
                 android:layout_width="match_parent"
@@ -35,23 +37,14 @@
                     android:id="@+id/judul_list_daftar_bahan_alami"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    app:layout_constraintRight_toRightOf="parent"
-                    app:layout_constraintTop_toTopOf="parent"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginBottom="8dp"
+                    android:text="Jahe"
+                    android:textSize="18sp"
+                    app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintLeft_toRightOf="@id/pic_list_daftar_bahan_alami"
-                    android:layout_marginTop="20dp"
-                    android:text="Jahe"/>
-
-                <TextView
-                    android:id="@+id/nama_latin_daftar_bahan_alami"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    app:layout_constraintLeft_toRightOf="@id/pic_list_daftar_bahan_alami"
-                    app:layout_constraintTop_toBottomOf="@id/judul_list_daftar_bahan_alami"
                     app:layout_constraintRight_toRightOf="parent"
-                    android:layout_marginTop="10dp"
-                    android:text="Zingiber Officinel"
-                    android:textStyle="italic"/>
-
+                    app:layout_constraintTop_toTopOf="parent" />
 
 
             </android.support.constraint.ConstraintLayout>

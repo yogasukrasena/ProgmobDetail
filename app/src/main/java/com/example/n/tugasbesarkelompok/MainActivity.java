@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
     private  ArrayList<String> mPenyakitName = new ArrayList<>();
     private  ArrayList<String> mPenyakitPic = new ArrayList<>();
     private  ArrayList<String> mPenyakitDesc = new ArrayList<>();
+    private ArrayList<String> mObatPenyakit = new ArrayList<>();
 
     private  ArrayList<String> mBahanName = new ArrayList<>();
     private  ArrayList<String> mBahanPic = new ArrayList<>();
@@ -91,6 +92,7 @@ public class MainActivity extends AppCompatActivity {
         mPenyakitName = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.nama_penyakit)));
         mPenyakitPic = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.foto_penyakit)));
         mPenyakitDesc = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.desc_penyakit)));
+        mObatPenyakit = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.obat_alami_penyakit)));
 
         mBahanName = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.nama_bahan_alami)));
         mBahanPic = new ArrayList<>(Arrays.asList(getResources().getStringArray(R.array.foto_bahan_alami)));
@@ -124,7 +126,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void initSecondRecyclerView() {
 
-        RecyclerViewAdapterDua adapter = new RecyclerViewAdapterDua(this, mPenyakitName, mPenyakitPic, mPenyakitDesc, 5);
+        RecyclerViewAdapterDua adapter = new RecyclerViewAdapterDua(this, mPenyakitName, mPenyakitPic, mPenyakitDesc, mObatPenyakit,5);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL,false);
         MultiSnapRecyclerView recyclerView = findViewById(R.id.second_recycler_view);
 
@@ -135,7 +137,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void initThirdRecyclerView() {
 
-        RecyclerViewAdapterTiga adapter = new RecyclerViewAdapterTiga(this, mBahanName, mBahanPic, mBahanDesc, mBahanKhasiat, mBahanLat, 5);
+        RecyclerViewAdapterTiga adapter = new RecyclerViewAdapterTiga(this, mBahanName, mBahanPic, mBahanDesc, mBahanKhasiat, 5);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this, LinearLayoutManager.HORIZONTAL,false);
         MultiSnapRecyclerView recyclerView = findViewById(R.id.third_recycler_view);
 
